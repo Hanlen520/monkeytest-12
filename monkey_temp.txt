@@ -1,0 +1,2529 @@
+:Monkey: seed=145952 count=10000
+:AllowPackage: com.richinfo.thinkmail
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.Accounts } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(6.0,177.0)
+:Sending Touch (ACTION_UP): 0:(14.204987,169.41266)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(493.0,922.0)
+:Sending Touch (ACTION_UP): 0:(493.1036,925.50446)
+:Sending Touch (ACTION_DOWN): 0:(614.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(628.0798,1098.146)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(609.0,670.0)
+:Sending Touch (ACTION_UP): 0:(605.9648,659.0877)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(694.0,681.0)
+:Sending Touch (ACTION_UP): 0:(688.14856,687.34796)
+:Sending Touch (ACTION_DOWN): 0:(481.0,1012.0)
+:Sending Touch (ACTION_UP): 0:(458.1916,1009.548)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(480.0,868.0)
+:Sending Touch (ACTION_UP): 0:(466.02496,903.7684)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(590.0,26.0)
+:Sending Touch (ACTION_UP): 0:(590.1271,37.746887)
+:Sending Touch (ACTION_DOWN): 0:(314.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(312.1417,1006.57764)
+    // Allowing start of Intent { act=com.richinfo.thinkmail.intent.action.COMPOSE cmp=com.richinfo.thinkmail/.ui.messagecompose.MessageCompose } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(114.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(132.48447,1061.1544)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(636.0,920.0)
+:Sending Touch (ACTION_UP): 0:(631.1263,901.65826)
+:Sending Touch (ACTION_DOWN): 0:(667.0,58.0)
+:Sending Touch (ACTION_UP): 0:(667.9055,62.98915)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(562.0,907.0)
+:Sending Touch (ACTION_UP): 0:(544.54474,902.1976)
+    //[calendar_time:2014-07-15 15:00:54.080  system_uptime:84623206]
+    // Sending event #100
+    //[calendar_time:2014-07-15 15:00:54.297  system_uptime:84623415]
+    // Sending event #100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(500.0,887.0)
+:Sending Touch (ACTION_UP): 0:(503.51605,901.21466)
+:Sending Touch (ACTION_DOWN): 0:(502.0,402.0)
+:Sending Touch (ACTION_UP): 0:(488.83038,402.46182)
+:Sending Touch (ACTION_DOWN): 0:(127.0,119.0)
+:Sending Touch (ACTION_UP): 0:(142.47258,118.79962)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(291.0,293.0)
+:Sending Touch (ACTION_UP): 0:(290.42892,290.55664)
+:Sending Touch (ACTION_DOWN): 0:(11.0,962.0)
+:Sending Touch (ACTION_UP): 0:(11.024709,956.6412)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2014-07-15 15:00:58.465  system_uptime:84627583]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(715.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(709.00183,1269.9104)
+:Sending Touch (ACTION_DOWN): 0:(711.0,589.0)
+:Sending Touch (ACTION_UP): 0:(635.9905,528.8895)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(143.0,622.0)
+:Sending Touch (ACTION_UP): 0:(144.24724,622.1081)
+:Sending Touch (ACTION_DOWN): 0:(364.0,276.0)
+:Sending Touch (ACTION_UP): 0:(367.3449,271.13406)
+:Sending Touch (ACTION_DOWN): 0:(481.0,492.0)
+:Sending Touch (ACTION_UP): 0:(516.1016,518.1714)
+:Sending Touch (ACTION_DOWN): 0:(280.0,673.0)
+:Sending Touch (ACTION_UP): 0:(283.1343,675.7689)
+:Sending Touch (ACTION_DOWN): 0:(56.0,942.0)
+:Sending Touch (ACTION_UP): 0:(55.326534,951.65265)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(160.02168,1270.5867)
+:Sending Touch (ACTION_DOWN): 0:(704.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(704.59064,1071.7993)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactUserActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(49.0,498.0)
+:Sending Touch (ACTION_UP): 0:(49.460278,497.87097)
+:Sending Touch (ACTION_DOWN): 0:(594.0,781.0)
+:Sending Touch (ACTION_UP): 0:(676.8426,827.0966)
+    //[calendar_time:2014-07-15 15:01:05.074  system_uptime:84634191]
+    // Sending event #300
+    //[calendar_time:2014-07-15 15:01:05.274  system_uptime:84634392]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(28.0,182.0)
+:Sending Touch (ACTION_UP): 0:(21.73079,231.31572)
+:Sending Touch (ACTION_DOWN): 0:(521.0,182.0)
+:Sending Touch (ACTION_UP): 0:(468.64767,251.67284)
+:Sending Touch (ACTION_DOWN): 0:(118.0,993.0)
+:Sending Touch (ACTION_UP): 0:(143.70792,1000.7803)
+:Sending Touch (ACTION_DOWN): 0:(213.0,193.0)
+:Sending Touch (ACTION_UP): 0:(209.79366,202.4774)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(595.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(588.25793,1043.7102)
+:Sending Touch (ACTION_DOWN): 0:(247.0,696.0)
+:Sending Touch (ACTION_UP): 0:(202.86748,690.4843)
+    // activityResuming(com.richinfo.thinkmail)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactUserActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(109.0,862.0)
+:Sending Touch (ACTION_UP): 0:(105.29795,917.7119)
+:Sending Touch (ACTION_DOWN): 0:(665.0,424.0)
+:Sending Touch (ACTION_UP): 0:(673.4525,421.54172)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(416.0,10.0)
+:Sending Touch (ACTION_UP): 0:(413.44284,12.534952)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    //[calendar_time:2014-07-15 15:01:11.232  system_uptime:84640350]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(40.0,947.0)
+:Sending Touch (ACTION_UP): 0:(81.79865,1000.5031)
+:Sending Touch (ACTION_DOWN): 0:(369.0,724.0)
+:Sending Touch (ACTION_UP): 0:(357.61136,733.2053)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(602.0,148.0)
+:Sending Touch (ACTION_UP): 0:(702.96924,170.80405)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(277.0,351.0)
+:Sending Touch (ACTION_UP): 0:(276.74084,346.74503)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.LocalContactActivity } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(651.0,414.0)
+:Sending Touch (ACTION_UP): 0:(662.47437,473.09415)
+:Sending Touch (ACTION_DOWN): 0:(709.0,1002.0)
+:Sending Touch (ACTION_UP): 0:(709.2669,999.3823)
+:Sending Touch (ACTION_DOWN): 0:(677.0,967.0)
+:Sending Touch (ACTION_UP): 0:(681.707,961.5637)
+    //[calendar_time:2014-07-15 15:01:14.444  system_uptime:84643562]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(692.0,9.0)
+:Sending Touch (ACTION_UP): 0:(644.0455,42.341854)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(369.76605,1020.6679)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(295.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(389.06036,1269.2773)
+:Sending Touch (ACTION_DOWN): 0:(681.0,384.0)
+:Sending Touch (ACTION_UP): 0:(708.10126,348.73032)
+:Sending Touch (ACTION_DOWN): 0:(709.0,854.0)
+:Sending Touch (ACTION_UP): 0:(696.6572,847.7266)
+:Sending Touch (ACTION_DOWN): 0:(510.0,852.0)
+:Sending Touch (ACTION_UP): 0:(506.82724,860.91364)
+:Sending Touch (ACTION_DOWN): 0:(341.0,856.0)
+:Sending Touch (ACTION_UP): 0:(286.4806,930.45795)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+    //[calendar_time:2014-07-15 15:01:18.235  system_uptime:84647353]
+    // Sending event #600
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(706.0,815.0)
+:Sending Touch (ACTION_UP): 0:(700.58923,819.21313)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(371.0,958.0)
+:Sending Touch (ACTION_UP): 0:(371.98196,952.96136)
+:Sending Touch (ACTION_DOWN): 0:(54.0,775.0)
+:Sending Touch (ACTION_UP): 0:(53.69533,775.56525)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(112.950325,1085.364)
+:Sending Touch (ACTION_DOWN): 0:(446.0,576.0)
+:Sending Touch (ACTION_UP): 0:(403.46146,557.3191)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(279.0,938.0)
+:Sending Touch (ACTION_UP): 0:(307.91266,919.35583)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2014-07-15 15:01:23.142  system_uptime:84652260]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(164.0,650.0)
+:Sending Touch (ACTION_UP): 0:(163.95602,648.5126)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(10.0,905.0)
+:Sending Touch (ACTION_UP): 0:(41.333363,781.9482)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(147.0,577.0)
+:Sending Touch (ACTION_UP): 0:(170.27296,576.3094)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(180.0,488.0)
+:Sending Touch (ACTION_UP): 0:(187.82655,464.25034)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2014-07-15 15:01:26.109  system_uptime:84655227]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(627.0,681.0)
+:Sending Touch (ACTION_UP): 0:(623.6544,678.07935)
+:Sending Touch (ACTION_DOWN): 0:(550.0,891.0)
+:Sending Touch (ACTION_UP): 0:(548.52985,912.25885)
+:Sending Touch (ACTION_DOWN): 0:(333.0,258.0)
+:Sending Touch (ACTION_UP): 0:(309.55777,234.77408)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(40.0,1241.0)
+:Sending Touch (ACTION_UP): 0:(44.45179,1222.5925)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(403.0,898.0)
+:Sending Touch (ACTION_UP): 0:(492.54782,904.08966)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2014-07-15 15:01:30.490  system_uptime:84659608]
+    // Sending event #900
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(115.0,802.0)
+:Sending Touch (ACTION_UP): 0:(107.190414,745.5256)
+:Sending Touch (ACTION_DOWN): 0:(314.0,672.0)
+:Sending Touch (ACTION_UP): 0:(293.79773,677.18536)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(577.0,723.0)
+:Sending Touch (ACTION_UP): 0:(590.4037,712.11786)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(206.0,184.0)
+:Sending Touch (ACTION_UP): 0:(206.58969,183.75797)
+:Sending Touch (ACTION_DOWN): 0:(51.0,606.0)
+:Sending Touch (ACTION_UP): 0:(44.28061,627.30994)
+:Sending Touch (ACTION_DOWN): 0:(354.0,73.0)
+:Sending Touch (ACTION_UP): 0:(359.50385,81.32058)
+:Sending Touch (ACTION_DOWN): 0:(710.0,588.0)
+:Sending Touch (ACTION_UP): 0:(707.6525,578.72925)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(589.0,894.0)
+:Sending Touch (ACTION_UP): 0:(574.0104,887.5752)
+:Sending Touch (ACTION_DOWN): 0:(14.0,590.0)
+:Sending Touch (ACTION_UP): 0:(0.0,567.1227)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2014-07-15 15:01:37.352  system_uptime:84666469]
+    // Sending event #1000
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(604.0,372.0)
+:Sending Touch (ACTION_UP): 0:(651.482,399.1004)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(346.0,812.0)
+:Sending Touch (ACTION_UP): 0:(343.91776,810.6088)
+:Sending Touch (ACTION_DOWN): 0:(634.0,1225.0)
+:Sending Touch (ACTION_UP): 0:(623.6024,1238.6187)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(258.0,630.0)
+:Sending Touch (ACTION_UP): 0:(262.062,643.2089)
+:Sending Touch (ACTION_DOWN): 0:(88.0,226.0)
+    //[calendar_time:2014-07-15 15:01:43.641  system_uptime:84672759]
+    // Sending event #1100
+:Sending Touch (ACTION_UP): 0:(148.40579,261.98737)
+:Sending Touch (ACTION_DOWN): 0:(388.0,303.0)
+:Sending Touch (ACTION_UP): 0:(406.7344,355.55084)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,306.0)
+:Sending Touch (ACTION_UP): 0:(87.06948,310.94467)
+:Sending Touch (ACTION_DOWN): 0:(631.0,801.0)
+:Sending Touch (ACTION_UP): 0:(607.9447,775.32837)
+:Sending Touch (ACTION_DOWN): 0:(520.0,402.0)
+:Sending Touch (ACTION_UP): 0:(518.09174,394.87555)
+:Sending Touch (ACTION_DOWN): 0:(444.0,991.0)
+:Sending Touch (ACTION_UP): 0:(428.543,929.9512)
+:Sending Touch (ACTION_DOWN): 0:(216.0,105.0)
+:Sending Touch (ACTION_UP): 0:(223.80049,109.31197)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(273.0,1085.0)
+:Sending Touch (ACTION_UP): 0:(255.08145,1079.0339)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2014-07-15 15:01:48.459  system_uptime:84677577]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(407.0,312.0)
+:Sending Touch (ACTION_UP): 0:(406.51697,316.2208)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(641.0,780.0)
+:Sending Touch (ACTION_UP): 0:(654.5275,791.8896)
+:Sending Touch (ACTION_DOWN): 0:(438.0,717.0)
+:Sending Touch (ACTION_UP): 0:(454.82333,745.7427)
+:Sending Touch (ACTION_DOWN): 0:(20.0,851.0)
+:Sending Touch (ACTION_UP): 0:(13.356651,832.002)
+:Sending Touch (ACTION_DOWN): 0:(595.0,50.0)
+:Sending Touch (ACTION_UP): 0:(595.26874,87.75129)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(195.0,981.0)
+:Sending Touch (ACTION_UP): 0:(199.68889,975.64343)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(416.0,703.0)
+:Sending Touch (ACTION_UP): 0:(417.34113,702.22095)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(489.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(443.7214,1056.3302)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2014-07-15 15:01:52.649  system_uptime:84681767]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(218.0,393.0)
+:Sending Touch (ACTION_UP): 0:(208.60484,394.88678)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(709.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(643.9584,1069.6243)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.wakelock.cn)
+    // Rejecting resume of package com.wakelock.cn
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(264.0,367.0)
+:Sending Touch (ACTION_UP): 0:(248.35332,354.2663)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(527.0,614.0)
+:Sending Touch (ACTION_UP): 0:(523.4631,618.3753)
+    // Rejecting start of Intent { cmp=com.android.settings/.sound.RingerVolumeActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2014-07-15 15:01:57.008  system_uptime:84686126]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(416.0,931.0)
+:Sending Touch (ACTION_UP): 0:(412.36804,928.596)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(323.0,646.0)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.Accounts } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+    //[calendar_time:2014-07-15 15:02:02.222  system_uptime:84691340]
+    // Sending event #1500
+:Sending Touch (ACTION_UP): 0:(341.37344,701.7173)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(82.0,223.0)
+:Sending Touch (ACTION_UP): 0:(86.16543,215.62999)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(489.0,654.0)
+:Sending Touch (ACTION_UP): 0:(480.927,659.2388)
+    // Rejecting start of Intent { cmp=com.android.settings/.sound.RingerVolumeActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(563.0,85.0)
+:Sending Touch (ACTION_UP): 0:(571.88226,95.413826)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.MessageSearchActivity } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    //[calendar_time:2014-07-15 15:02:09.129  system_uptime:84698247]
+    // Sending event #1600
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(143.0,989.0)
+:Sending Touch (ACTION_UP): 0:(149.83653,1000.8721)
+:Sending Touch (ACTION_DOWN): 0:(500.0,734.0)
+:Sending Touch (ACTION_UP): 0:(540.4917,826.4797)
+:Sending Touch (ACTION_DOWN): 0:(386.0,663.0)
+:Sending Touch (ACTION_UP): 0:(391.03412,640.54694)
+:Sending Touch (ACTION_DOWN): 0:(156.0,426.0)
+:Sending Touch (ACTION_UP): 0:(169.64404,429.69568)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(622.0,88.0)
+:Sending Touch (ACTION_UP): 0:(621.2471,83.69092)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,737.0)
+:Sending Touch (ACTION_UP): 0:(685.34894,756.61896)
+    //[calendar_time:2014-07-15 15:02:14.546  system_uptime:84703664]
+    // Sending event #1700
+:Sending Touch (ACTION_DOWN): 0:(626.0,943.0)
+:Sending Touch (ACTION_UP): 0:(620.74207,946.998)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(305.0,1222.0)
+:Sending Touch (ACTION_UP): 0:(308.0677,1218.0144)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(109.0,273.0)
+:Sending Touch (ACTION_UP): 0:(151.13335,265.3504)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(21.0,298.0)
+:Sending Touch (ACTION_UP): 0:(0.0,178.40114)
+:Sending Touch (ACTION_DOWN): 0:(302.0,1181.0)
+    //[calendar_time:2014-07-15 15:02:20.040  system_uptime:84709159]
+    // Sending event #1800
+:Sending Touch (ACTION_UP): 0:(400.03864,1213.2495)
+:Sending Touch (ACTION_DOWN): 0:(280.0,398.0)
+:Sending Touch (ACTION_UP): 0:(278.03604,411.28873)
+:Sending Touch (ACTION_DOWN): 0:(27.0,660.0)
+:Sending Touch (ACTION_UP): 0:(88.1499,663.9324)
+:Sending Touch (ACTION_DOWN): 0:(144.0,974.0)
+:Sending Touch (ACTION_UP): 0:(193.2366,917.1293)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(290.0,237.0)
+:Sending Touch (ACTION_UP): 0:(292.51587,234.20258)
+:Sending Touch (ACTION_DOWN): 0:(536.0,836.0)
+:Sending Touch (ACTION_UP): 0:(477.71555,837.4733)
+:Sending Touch (ACTION_DOWN): 0:(215.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(216.36281,1037.2715)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(383.0,622.0)
+:Sending Touch (ACTION_UP): 0:(378.74902,625.4758)
+:Sending Touch (ACTION_DOWN): 0:(676.0,792.0)
+:Sending Touch (ACTION_UP): 0:(674.6913,787.9666)
+:Sending Touch (ACTION_DOWN): 0:(333.0,500.0)
+:Sending Touch (ACTION_UP): 0:(360.3551,426.20435)
+:Sending Touch (ACTION_DOWN): 0:(257.0,993.0)
+:Sending Touch (ACTION_UP): 0:(274.6158,996.6041)
+:Sending Touch (ACTION_DOWN): 0:(288.0,873.0)
+:Sending Touch (ACTION_UP): 0:(280.37073,872.13983)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://com.richinfo.thinkmail.attachmentprovider/bf347057-1f6e-4a7a-824a-2a7b037407c4/57/RAW typ=image/png cmp=com.miui.gallery/.app.Gallery } in package com.miui.gallery
+    //[calendar_time:2014-07-15 15:02:25.530  system_uptime:84714648]
+    // Sending event #1900
+    //[calendar_time:2014-07-15 15:02:25.731  system_uptime:84714849]
+    // Sending event #1900
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(436.0,98.0)
+:Sending Touch (ACTION_UP): 0:(424.55685,104.90795)
+:Sending Touch (ACTION_DOWN): 0:(343.0,810.0)
+:Sending Touch (ACTION_UP): 0:(374.59662,741.91644)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(265.0,276.0)
+:Sending Touch (ACTION_UP): 0:(266.04565,272.78955)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://com.richinfo.thinkmail.attachmentprovider/bf347057-1f6e-4a7a-824a-2a7b037407c4/57/RAW typ=image/png cmp=com.miui.gallery/.app.Gallery } in package com.miui.gallery
+:Sending Touch (ACTION_DOWN): 0:(520.0,533.0)
+:Sending Touch (ACTION_UP): 0:(516.07715,527.5436)
+:Sending Touch (ACTION_DOWN): 0:(623.0,418.0)
+:Sending Touch (ACTION_UP): 0:(633.6577,414.65494)
+:Sending Touch (ACTION_DOWN): 0:(520.0,446.0)
+:Sending Touch (ACTION_UP): 0:(569.0417,378.28613)
+:Sending Touch (ACTION_DOWN): 0:(654.0,1169.0)
+:Sending Touch (ACTION_UP): 0:(636.5193,1161.4873)
+:Sending Touch (ACTION_DOWN): 0:(149.0,997.0)
+:Sending Touch (ACTION_UP): 0:(138.81549,986.04376)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.setting.AccountFloders } in package com.richinfo.thinkmail
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(313.0,251.0)
+:Sending Touch (ACTION_UP): 0:(301.39923,285.4465)
+    //[calendar_time:2014-07-15 15:02:31.165  system_uptime:84720283]
+    // Sending event #2000
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(387.0,944.0)
+:Sending Touch (ACTION_UP): 0:(378.20828,960.15875)
+:Sending Touch (ACTION_DOWN): 0:(316.0,285.0)
+:Sending Touch (ACTION_UP): 0:(302.65277,272.37314)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(57.0,701.0)
+:Sending Touch (ACTION_UP): 0:(61.3351,701.9907)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(377.0,1078.0)
+:Sending Touch (ACTION_UP): 0:(376.96118,1082.6198)
+:Sending Touch (ACTION_DOWN): 0:(495.0,675.0)
+:Sending Touch (ACTION_UP): 0:(492.07062,661.2073)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2014-07-15 15:02:34.659  system_uptime:84723777]
+    // Sending event #2100
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(655.0,915.0)
+:Sending Touch (ACTION_UP): 0:(654.5909,905.1987)
+:Sending Touch (ACTION_DOWN): 0:(44.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(33.151546,1213.6843)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(0.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1136.9761)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(554.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(553.46564,1143.3724)
+:Sending Touch (ACTION_DOWN): 0:(635.0,62.0)
+:Sending Touch (ACTION_UP): 0:(636.5274,67.161545)
+:Sending Touch (ACTION_DOWN): 0:(450.0,751.0)
+:Sending Touch (ACTION_UP): 0:(458.12753,761.30865)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(578.0,1222.0)
+:Sending Touch (ACTION_UP): 0:(586.27795,1226.323)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2014-07-15 15:02:40.672  system_uptime:84729790]
+    // Sending event #2200
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(266.0,251.0)
+:Sending Touch (ACTION_UP): 0:(264.98285,246.28502)
+:Sending Touch (ACTION_DOWN): 0:(195.0,314.0)
+:Sending Touch (ACTION_UP): 0:(192.69145,324.1527)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Touch (ACTION_DOWN): 0:(667.0,883.0)
+:Sending Touch (ACTION_UP): 0:(594.3619,802.31305)
+:Sending Touch (ACTION_DOWN): 0:(335.0,347.0)
+:Sending Touch (ACTION_UP): 0:(327.35855,356.90543)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(638.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(627.2749,1041.1823)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(412.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(584.3308,1038.5984)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    //[calendar_time:2014-07-15 15:02:45.412  system_uptime:84734530]
+    // Sending event #2300
+    //[calendar_time:2014-07-15 15:02:45.613  system_uptime:84734731]
+    // Sending event #2300
+:Sending Touch (ACTION_DOWN): 0:(338.0,321.0)
+:Sending Touch (ACTION_UP): 0:(320.24716,214.99301)
+:Sending Touch (ACTION_DOWN): 0:(27.0,860.0)
+:Sending Touch (ACTION_UP): 0:(0.0,806.4825)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(103.0,425.0)
+:Sending Touch (ACTION_UP): 0:(136.48984,383.20526)
+:Sending Touch (ACTION_DOWN): 0:(680.0,303.0)
+:Sending Touch (ACTION_UP): 0:(610.66675,288.2569)
+:Sending Touch (ACTION_DOWN): 0:(630.0,675.0)
+:Sending Touch (ACTION_UP): 0:(622.86755,674.58344)
+:Sending Touch (ACTION_DOWN): 0:(261.0,650.0)
+:Sending Touch (ACTION_UP): 0:(256.8532,612.7961)
+:Sending Touch (ACTION_DOWN): 0:(529.0,596.0)
+:Sending Touch (ACTION_UP): 0:(550.21893,562.7369)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(122.0,66.0)
+:Sending Touch (ACTION_UP): 0:(129.13287,105.013725)
+:Sending Touch (ACTION_DOWN): 0:(253.0,277.0)
+:Sending Touch (ACTION_UP): 0:(260.3592,276.94666)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.setup.AccountSetupBasics } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(93.0,785.0)
+:Sending Touch (ACTION_UP): 0:(90.08586,787.81256)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2014-07-15 15:02:51.471  system_uptime:84740589]
+    // Sending event #2400
+:Sending Touch (ACTION_DOWN): 0:(474.0,93.0)
+:Sending Touch (ACTION_UP): 0:(467.54675,88.63441)
+:Sending Touch (ACTION_DOWN): 0:(579.0,1267.0)
+:Sending Touch (ACTION_UP): 0:(581.9553,1231.2458)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(429.0,916.0)
+:Sending Touch (ACTION_UP): 0:(440.7191,905.64105)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(98.0,4.0)
+:Sending Touch (ACTION_UP): 0:(57.064163,19.797577)
+:Sending Touch (ACTION_DOWN): 0:(422.0,214.0)
+:Sending Touch (ACTION_UP): 0:(421.71216,210.5385)
+:Sending Touch (ACTION_DOWN): 0:(91.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(82.344345,1108.8645)
+:Sending Touch (ACTION_DOWN): 0:(512.0,19.0)
+:Sending Touch (ACTION_UP): 0:(456.94043,32.14182)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(196.0,150.0)
+:Sending Touch (ACTION_UP): 0:(175.36688,68.73583)
+:Sending Touch (ACTION_DOWN): 0:(549.0,53.0)
+:Sending Touch (ACTION_UP): 0:(532.226,32.699192)
+:Sending Touch (ACTION_DOWN): 0:(185.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(181.55412,1120.7432)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2014-07-15 15:02:56.577  system_uptime:84745694]
+    // Sending event #2500
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(443.0,110.0)
+:Sending Touch (ACTION_UP): 0:(432.2718,108.65717)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.setting.AccountFloders } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(320.0,369.0)
+:Sending Touch (ACTION_UP): 0:(320.01926,367.7974)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(694.0,404.0)
+:Sending Touch (ACTION_UP): 0:(663.31146,444.17612)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(535.0,204.0)
+:Sending Touch (ACTION_UP): 0:(637.11774,236.75423)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(13.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(11.970853,1020.96094)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(90.0,318.0)
+:Sending Touch (ACTION_UP): 0:(119.082634,316.91907)
+:Sending Touch (ACTION_DOWN): 0:(659.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(658.95886,1131.0427)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(680.0,924.0)
+:Sending Touch (ACTION_UP): 0:(685.2479,924.85675)
+:Sending Touch (ACTION_DOWN): 0:(20.0,62.0)
+:Sending Touch (ACTION_UP): 0:(18.634336,87.84329)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(573.0,368.0)
+    //[calendar_time:2014-07-15 15:03:01.501  system_uptime:84750618]
+    // Sending event #2600
+:Sending Touch (ACTION_UP): 0:(583.4914,369.0076)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(423.0,810.0)
+:Sending Touch (ACTION_UP): 0:(341.03778,811.20013)
+:Sending Touch (ACTION_DOWN): 0:(648.0,48.0)
+:Sending Touch (ACTION_UP): 0:(641.13464,34.252853)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(256.0,537.0)
+:Sending Touch (ACTION_UP): 0:(251.82234,564.3638)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(253.0,640.0)
+:Sending Touch (ACTION_UP): 0:(250.70058,647.4364)
+:Sending Touch (ACTION_DOWN): 0:(130.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(98.49458,1033.7686)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2014-07-15 15:03:04.655  system_uptime:84753772]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(300.0,1038.0)
+:Sending Touch (ACTION_UP): 0:(298.64557,1027.3374)
+:Sending Touch (ACTION_DOWN): 0:(673.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(670.1415,1268.4675)
+:Sending Touch (ACTION_DOWN): 0:(168.0,632.0)
+:Sending Touch (ACTION_UP): 0:(169.2373,637.3788)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(696.0,802.0)
+:Sending Touch (ACTION_UP): 0:(676.2263,791.40796)
+:Sending Touch (ACTION_DOWN): 0:(677.0,720.0)
+:Sending Touch (ACTION_UP): 0:(676.93604,702.00635)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(127.0,1164.0)
+:Sending Touch (ACTION_UP): 0:(128.22499,1175.183)
+:Sending Touch (ACTION_DOWN): 0:(210.0,619.0)
+:Sending Touch (ACTION_UP): 0:(195.46529,618.9473)
+:Sending Touch (ACTION_DOWN): 0:(199.0,659.0)
+:Sending Touch (ACTION_UP): 0:(192.72597,657.4383)
+:Sending Touch (ACTION_DOWN): 0:(278.0,293.0)
+:Sending Touch (ACTION_UP): 0:(278.08472,288.18314)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://com.richinfo.thinkmail.attachmentprovider/bf347057-1f6e-4a7a-824a-2a7b037407c4/57/RAW typ=image/png cmp=com.miui.gallery/.app.Gallery } in package com.miui.gallery
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2014-07-15 15:03:10.756  system_uptime:84759874]
+    // Sending event #2800
+    //[calendar_time:2014-07-15 15:03:10.957  system_uptime:84760075]
+    // Sending event #2800
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(324.0,887.0)
+:Sending Touch (ACTION_UP): 0:(327.7229,903.5405)
+:Sending Touch (ACTION_DOWN): 0:(236.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(233.02193,1206.2472)
+:Sending Touch (ACTION_DOWN): 0:(68.0,983.0)
+:Sending Touch (ACTION_UP): 0:(69.65698,968.27856)
+:Sending Touch (ACTION_DOWN): 0:(231.0,833.0)
+:Sending Touch (ACTION_UP): 0:(301.4444,900.67706)
+:Sending Touch (ACTION_DOWN): 0:(627.0,153.0)
+:Sending Touch (ACTION_UP): 0:(654.73016,221.94443)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(293.0,859.0)
+:Sending Touch (ACTION_UP): 0:(294.7638,867.27466)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(611.0,513.0)
+:Sending Touch (ACTION_UP): 0:(591.3731,532.7928)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.setting.AccountFloders } in package com.richinfo.thinkmail
+    //[calendar_time:2014-07-15 15:03:18.377  system_uptime:84767495]
+    // Sending event #2900
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Flip keyboardOpen=true
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(477.0,577.0)
+:Sending Touch (ACTION_UP): 0:(468.0408,478.1642)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(447.0,483.0)
+:Sending Touch (ACTION_UP): 0:(451.57745,491.62988)
+:Sending Touch (ACTION_DOWN): 0:(211.0,755.0)
+:Sending Touch (ACTION_UP): 0:(131.11807,693.3885)
+:Sending Touch (ACTION_DOWN): 0:(241.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(241.47823,1089.1453)
+:Sending Touch (ACTION_DOWN): 0:(335.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(335.57443,1213.675)
+:Sending Touch (ACTION_DOWN): 0:(402.0,164.0)
+:Sending Touch (ACTION_UP): 0:(380.47058,176.87395)
+:Sending Touch (ACTION_DOWN): 0:(223.0,86.0)
+:Sending Touch (ACTION_UP): 0:(236.14867,102.92675)
+:Sending Touch (ACTION_DOWN): 0:(264.0,49.0)
+:Sending Touch (ACTION_UP): 0:(359.82104,65.82191)
+:Sending Touch (ACTION_DOWN): 0:(129.0,412.0)
+:Sending Touch (ACTION_UP): 0:(116.68988,417.9129)
+:Sending Touch (ACTION_DOWN): 0:(354.0,598.0)
+    //[calendar_time:2014-07-15 15:03:25.600  system_uptime:84774718]
+    // Sending event #3000
+:Sending Touch (ACTION_UP): 0:(327.11166,647.1423)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(378.0,877.0)
+:Sending Touch (ACTION_UP): 0:(377.0517,881.0141)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(374.0,336.0)
+:Sending Touch (ACTION_UP): 0:(427.50735,385.25128)
+:Sending Touch (ACTION_DOWN): 0:(182.0,681.0)
+:Sending Touch (ACTION_UP): 0:(115.58976,654.7549)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(177.0,988.0)
+:Sending Touch (ACTION_UP): 0:(264.02994,975.9143)
+:Sending Touch (ACTION_DOWN): 0:(200.0,997.0)
+:Sending Touch (ACTION_UP): 0:(194.2662,960.2938)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(163.0,793.0)
+:Sending Touch (ACTION_UP): 0:(171.24292,797.7817)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1244.0)
+:Sending Touch (ACTION_UP): 0:(151.73442,1245.5607)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(78.0,766.0)
+:Sending Touch (ACTION_UP): 0:(87.88732,763.59937)
+:Sending Touch (ACTION_DOWN): 0:(122.0,913.0)
+:Sending Touch (ACTION_UP): 0:(102.15627,930.5696)
+:Sending Touch (ACTION_DOWN): 0:(4.0,470.0)
+    //[calendar_time:2014-07-15 15:03:32.365  system_uptime:84781483]
+    // Sending event #3100
+:Sending Touch (ACTION_UP): 0:(0.0,382.0395)
+:Sending Touch (ACTION_DOWN): 0:(595.0,1078.0)
+:Sending Touch (ACTION_UP): 0:(536.1227,1004.54846)
+:Sending Touch (ACTION_DOWN): 0:(146.0,1148.0)
+:Sending Touch (ACTION_UP): 0:(110.821175,1109.8876)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(477.0,521.0)
+:Sending Touch (ACTION_UP): 0:(471.10095,512.928)
+:Sending Touch (ACTION_DOWN): 0:(573.0,575.0)
+:Sending Touch (ACTION_UP): 0:(569.08093,556.2807)
+:Sending Touch (ACTION_DOWN): 0:(126.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(128.15662,1054.0115)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(206.0,115.0)
+:Sending Touch (ACTION_UP): 0:(204.29027,158.77078)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(651.0,1043.0)
+:Sending Touch (ACTION_UP): 0:(635.784,1048.9661)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+    //[calendar_time:2014-07-15 15:03:37.090  system_uptime:84786208]
+    // Sending event #3200
+    //[calendar_time:2014-07-15 15:03:37.291  system_uptime:84786409]
+    // Sending event #3200
+    // activityResuming(com.richinfo.thinkmail)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(668.0,230.0)
+:Sending Touch (ACTION_UP): 0:(700.1114,220.94406)
+:Sending Touch (ACTION_DOWN): 0:(122.0,97.0)
+:Sending Touch (ACTION_UP): 0:(38.752846,170.9419)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(429.0,1141.0)
+:Sending Touch (ACTION_UP): 0:(431.90457,1152.3851)
+:Sending Touch (ACTION_DOWN): 0:(612.0,66.0)
+:Sending Touch (ACTION_UP): 0:(608.97424,91.03539)
+:Sending Touch (ACTION_DOWN): 0:(477.0,695.0)
+:Sending Touch (ACTION_UP): 0:(481.12283,697.74054)
+:Sending Touch (ACTION_DOWN): 0:(276.0,1152.0)
+:Sending Touch (ACTION_UP): 0:(271.88696,1167.704)
+:Sending Touch (ACTION_DOWN): 0:(619.0,240.0)
+:Sending Touch (ACTION_UP): 0:(672.96704,271.89404)
+:Sending Touch (ACTION_DOWN): 0:(706.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(707.9121,1257.6299)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2014-07-15 15:03:43.315  system_uptime:84792433]
+    // Sending event #3300
+    //[calendar_time:2014-07-15 15:03:43.516  system_uptime:84792635]
+    // Sending event #3300
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(110.0,475.0)
+:Sending Touch (ACTION_UP): 0:(114.2718,488.06982)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(398.0,347.0)
+:Sending Touch (ACTION_UP): 0:(463.998,425.64984)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(683.0,431.0)
+:Sending Touch (ACTION_UP): 0:(703.94904,413.30292)
+:Sending Touch (ACTION_DOWN): 0:(109.0,454.0)
+:Sending Touch (ACTION_UP): 0:(94.86246,470.53934)
+:Sending Touch (ACTION_DOWN): 0:(188.0,859.0)
+:Sending Touch (ACTION_UP): 0:(186.51569,860.0662)
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.wakelock.cn)
+    // Rejecting resume of package com.wakelock.cn
+:Sending Touch (ACTION_DOWN): 0:(348.0,380.0)
+:Sending Touch (ACTION_UP): 0:(362.81775,354.97644)
+:Sending Touch (ACTION_DOWN): 0:(489.0,695.0)
+:Sending Touch (ACTION_UP): 0:(431.36874,778.2428)
+    //[calendar_time:2014-07-15 15:03:48.150  system_uptime:84797268]
+    // Sending event #3400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.Accounts } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(208.0,664.0)
+:Sending Touch (ACTION_UP): 0:(209.98907,666.32874)
+:Sending Touch (ACTION_DOWN): 0:(668.0,864.0)
+:Sending Touch (ACTION_UP): 0:(656.72144,882.1586)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(566.0,961.0)
+:Sending Touch (ACTION_UP): 0:(551.1682,959.7035)
+    //[calendar_time:2014-07-15 15:03:54.143  system_uptime:84803261]
+    // Sending event #3500
+:Sending Touch (ACTION_DOWN): 0:(605.0,154.0)
+:Sending Touch (ACTION_UP): 0:(593.48413,159.88843)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(523.0,1186.0)
+:Sending Touch (ACTION_UP): 0:(520.7558,1187.7186)
+:Sending Touch (ACTION_DOWN): 0:(341.0,564.0)
+:Sending Touch (ACTION_UP): 0:(347.13116,561.4642)
+:Sending Touch (ACTION_DOWN): 0:(35.0,348.0)
+:Sending Touch (ACTION_UP): 0:(40.542667,352.70615)
+:Sending Touch (ACTION_DOWN): 0:(610.0,718.0)
+:Sending Touch (ACTION_UP): 0:(616.8711,710.1248)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(223.10425,1243.5826)
+    // Allowing start of Intent { act=com.richinfo.thinkmail.intent.action.EDIT_DRAFT cmp=com.richinfo.thinkmail/.ui.messagecompose.MessageCompose } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(381.0,855.0)
+:Sending Touch (ACTION_UP): 0:(365.47787,846.3889)
+:Sending Touch (ACTION_DOWN): 0:(571.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(571.08746,1036.9114)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(88.0,457.0)
+:Sending Touch (ACTION_UP): 0:(76.94867,463.79196)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2014-07-15 15:04:02.475  system_uptime:84811593]
+    // Sending event #3600
+:Sending Touch (ACTION_DOWN): 0:(647.0,246.0)
+:Sending Touch (ACTION_UP): 0:(646.5035,166.20126)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(111.802376,1231.6466)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(636.0,663.0)
+:Sending Touch (ACTION_UP): 0:(623.9402,660.7363)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calendar/.AllInOneActivity } in package com.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(366.0,131.0)
+:Sending Touch (ACTION_UP): 0:(363.8788,129.44836)
+:Sending Touch (ACTION_DOWN): 0:(709.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(706.5558,1103.0645)
+:Sending Touch (ACTION_DOWN): 0:(719.0,428.0)
+:Sending Touch (ACTION_UP): 0:(717.93677,439.23938)
+:Sending Touch (ACTION_DOWN): 0:(480.0,228.0)
+:Sending Touch (ACTION_UP): 0:(466.74637,250.1775)
+:Sending Touch (ACTION_DOWN): 0:(527.0,474.0)
+:Sending Touch (ACTION_UP): 0:(530.739,459.6948)
+    //[calendar_time:2014-07-15 15:04:07.760  system_uptime:84816878]
+    // Sending event #3700
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(90.0,821.0)
+:Sending Touch (ACTION_UP): 0:(76.21367,807.1402)
+:Sending Touch (ACTION_DOWN): 0:(176.0,246.0)
+:Sending Touch (ACTION_UP): 0:(158.9526,252.46832)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,911.0)
+:Sending Touch (ACTION_UP): 0:(316.87814,903.7196)
+:Sending Touch (ACTION_DOWN): 0:(521.0,1164.0)
+:Sending Touch (ACTION_UP): 0:(520.44995,1164.256)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(422.08646,972.1216)
+:Sending Touch (ACTION_DOWN): 0:(301.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(306.10532,1262.1027)
+    //[calendar_time:2014-07-15 15:04:12.909  system_uptime:84822027]
+    // Sending event #3800
+    //[calendar_time:2014-07-15 15:04:13.111  system_uptime:84822229]
+    // Sending event #3800
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(31.0,474.0)
+:Sending Touch (ACTION_UP): 0:(23.58427,479.32202)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(182.0,330.0)
+:Sending Touch (ACTION_UP): 0:(163.69666,319.63492)
+:Sending Touch (ACTION_DOWN): 0:(363.0,1259.0)
+:Sending Touch (ACTION_UP): 0:(352.015,1280.0)
+:Sending Touch (ACTION_DOWN): 0:(657.0,136.0)
+:Sending Touch (ACTION_UP): 0:(720.0,98.85193)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1.0,289.0)
+:Sending Touch (ACTION_UP): 0:(1.1243653,277.8901)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(242.0,103.0)
+:Sending Touch (ACTION_UP): 0:(245.00977,101.51061)
+    //[calendar_time:2014-07-15 15:04:16.957  system_uptime:84826075]
+    // Sending event #3900
+    //[calendar_time:2014-07-15 15:04:17.158  system_uptime:84826276]
+    // Sending event #3900
+:Sending Touch (ACTION_DOWN): 0:(205.0,67.0)
+:Sending Touch (ACTION_UP): 0:(146.54509,17.435192)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(424.56842,1047.2953)
+    // Allowing start of Intent { act=com.richinfo.thinkmail.intent.action.EDIT_DRAFT cmp=com.richinfo.thinkmail/.ui.messagecompose.MessageCompose } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(258.0,121.0)
+:Sending Touch (ACTION_UP): 0:(258.1727,126.785835)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(4.0,646.0)
+:Sending Touch (ACTION_UP): 0:(0.0,702.6562)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(283.0,139.0)
+    //[calendar_time:2014-07-15 15:04:20.893  system_uptime:84830011]
+    // Sending event #4000
+:Sending Touch (ACTION_UP): 0:(288.9354,120.538315)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(281.0,248.0)
+:Sending Touch (ACTION_UP): 0:(208.59126,234.18816)
+:Sending Touch (ACTION_DOWN): 0:(24.0,1203.0)
+:Sending Touch (ACTION_UP): 0:(24.241348,1185.8357)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactUserActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(201.0,818.0)
+:Sending Touch (ACTION_UP): 0:(234.81818,744.0037)
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+    //[calendar_time:2014-07-15 15:04:27.016  system_uptime:84836134]
+    // Sending event #4100
+    //[calendar_time:2014-07-15 15:04:27.217  system_uptime:84836335]
+    // Sending event #4100
+:Sending Touch (ACTION_DOWN): 0:(139.0,312.0)
+:Sending Touch (ACTION_UP): 0:(140.93234,308.5521)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(434.0,1193.0)
+:Sending Touch (ACTION_UP): 0:(436.44736,1212.1082)
+:Sending Touch (ACTION_DOWN): 0:(483.0,1130.0)
+:Sending Touch (ACTION_UP): 0:(485.62173,1128.6884)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(629.0,49.0)
+:Sending Touch (ACTION_UP): 0:(647.3638,48.272984)
+:Sending Touch (ACTION_DOWN): 0:(494.0,195.0)
+:Sending Touch (ACTION_UP): 0:(487.8141,176.37405)
+:Sending Touch (ACTION_DOWN): 0:(218.0,349.0)
+:Sending Touch (ACTION_UP): 0:(231.2117,372.80786)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    // activityResuming(com.richinfo.thinkmail)
+    //[calendar_time:2014-07-15 15:04:33.700  system_uptime:84842817]
+    // Sending event #4200
+:Sending Touch (ACTION_DOWN): 0:(235.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(232.80872,1057.3333)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(505.0,713.0)
+:Sending Touch (ACTION_UP): 0:(504.92245,711.57263)
+:Sending Touch (ACTION_DOWN): 0:(148.0,485.0)
+:Sending Touch (ACTION_UP): 0:(135.70952,500.01447)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(165.0,646.0)
+:Sending Touch (ACTION_UP): 0:(167.61969,653.92334)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(175.0,636.0)
+:Sending Touch (ACTION_UP): 0:(190.32748,599.18854)
+:Sending Touch (ACTION_DOWN): 0:(152.0,375.0)
+:Sending Touch (ACTION_UP): 0:(134.58014,373.27112)
+:Sending Touch (ACTION_DOWN): 0:(365.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(384.4361,1169.1643)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(652.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(653.5677,1092.8743)
+:Sending Touch (ACTION_DOWN): 0:(588.0,525.0)
+:Sending Touch (ACTION_UP): 0:(597.7603,522.0557)
+:Sending Touch (ACTION_DOWN): 0:(158.0,884.0)
+:Sending Touch (ACTION_UP): 0:(151.46394,899.21454)
+:Sending Touch (ACTION_DOWN): 0:(593.0,731.0)
+:Sending Touch (ACTION_UP): 0:(592.54486,732.96423)
+:Sending Touch (ACTION_DOWN): 0:(573.0,297.0)
+    //[calendar_time:2014-07-15 15:04:40.077  system_uptime:84849194]
+    // Sending event #4300
+:Sending Touch (ACTION_UP): 0:(505.68887,206.17046)
+:Sending Touch (ACTION_DOWN): 0:(413.0,350.0)
+:Sending Touch (ACTION_UP): 0:(325.02148,279.47168)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(464.0,763.0)
+:Sending Touch (ACTION_UP): 0:(469.81946,767.5204)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2014-07-15 15:04:42.841  system_uptime:84851959]
+    // Sending event #4400
+:Sending Touch (ACTION_DOWN): 0:(11.0,1263.0)
+:Sending Touch (ACTION_UP): 0:(97.12354,1194.6185)
+:Sending Touch (ACTION_DOWN): 0:(301.0,986.0)
+:Sending Touch (ACTION_UP): 0:(317.9182,986.7035)
+:Sending Touch (ACTION_DOWN): 0:(657.0,636.0)
+:Sending Touch (ACTION_UP): 0:(649.077,630.20435)
+:Sending Touch (ACTION_DOWN): 0:(343.0,258.0)
+:Sending Touch (ACTION_UP): 0:(345.18527,278.9568)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(104.0,141.0)
+:Sending Touch (ACTION_UP): 0:(103.17253,148.57838)
+:Sending Touch (ACTION_DOWN): 0:(554.0,181.0)
+:Sending Touch (ACTION_UP): 0:(551.91144,158.38058)
+:Sending Touch (ACTION_DOWN): 0:(52.0,623.0)
+:Sending Touch (ACTION_UP): 0:(51.476955,622.7034)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    //[calendar_time:2014-07-15 15:04:47.490  system_uptime:84856608]
+    // Sending event #4500
+:Sending Touch (ACTION_DOWN): 0:(291.0,973.0)
+:Sending Touch (ACTION_UP): 0:(202.55795,1055.7981)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(435.0,765.0)
+:Sending Touch (ACTION_UP): 0:(455.45065,768.301)
+:Sending Touch (ACTION_DOWN): 0:(552.0,1037.0)
+:Sending Touch (ACTION_UP): 0:(646.9692,956.32306)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(664.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(656.8365,1257.0828)
+:Sending Touch (ACTION_DOWN): 0:(35.0,10.0)
+:Sending Touch (ACTION_UP): 0:(21.426252,7.5760717)
+:Sending Touch (ACTION_DOWN): 0:(692.0,68.0)
+:Sending Touch (ACTION_UP): 0:(687.2651,66.59088)
+:Sending Touch (ACTION_DOWN): 0:(436.0,730.0)
+    //[calendar_time:2014-07-15 15:04:51.073  system_uptime:84860191]
+    // Sending event #4600
+:Sending Touch (ACTION_UP): 0:(456.91226,760.2895)
+:Sending Touch (ACTION_DOWN): 0:(328.0,173.0)
+:Sending Touch (ACTION_UP): 0:(335.06625,171.97835)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(600.0,621.0)
+:Sending Touch (ACTION_UP): 0:(582.9853,591.89966)
+:Sending Touch (ACTION_DOWN): 0:(0.0,890.0)
+:Sending Touch (ACTION_UP): 0:(0.0,878.94763)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(277.0,11.0)
+:Sending Touch (ACTION_UP): 0:(287.00198,10.011428)
+:Sending Touch (ACTION_DOWN): 0:(693.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(632.06415,1077.9023)
+    // activityResuming(com.richinfo.thinkmail)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(21.0,927.0)
+:Sending Touch (ACTION_UP): 0:(9.803698,934.2211)
+:Sending Touch (ACTION_DOWN): 0:(663.0,734.0)
+:Sending Touch (ACTION_UP): 0:(644.36096,739.05194)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(571.0,886.0)
+:Sending Touch (ACTION_UP): 0:(617.81287,819.2845)
+:Sending Touch (ACTION_DOWN): 0:(350.0,255.0)
+:Sending Touch (ACTION_UP): 0:(350.3954,262.3983)
+:Sending Touch (ACTION_DOWN): 0:(371.0,591.0)
+:Sending Touch (ACTION_UP): 0:(367.9304,576.15967)
+:Sending Touch (ACTION_DOWN): 0:(82.0,781.0)
+    //[calendar_time:2014-07-15 15:04:58.595  system_uptime:84867713]
+    // Sending event #4700
+:Sending Touch (ACTION_UP): 0:(77.93114,767.4594)
+    // activityResuming(com.richinfo.thinkmail)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(449.0,67.0)
+:Sending Touch (ACTION_UP): 0:(439.94513,67.53824)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(144.0,173.0)
+:Sending Touch (ACTION_UP): 0:(143.02008,188.93336)
+:Sending Touch (ACTION_DOWN): 0:(63.0,115.0)
+:Sending Touch (ACTION_UP): 0:(0.0,83.83777)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(282.0,440.0)
+:Sending Touch (ACTION_UP): 0:(284.29602,424.09225)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(454.0,106.0)
+:Sending Touch (ACTION_UP): 0:(469.88312,147.75458)
+:Sending Touch (ACTION_DOWN): 0:(42.0,944.0)
+:Sending Touch (ACTION_UP): 0:(48.761593,942.9462)
+:Sending Touch (ACTION_DOWN): 0:(267.0,826.0)
+:Sending Touch (ACTION_UP): 0:(253.92989,849.32465)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(580.0,263.0)
+:Sending Touch (ACTION_UP): 0:(464.70782,169.92984)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2014-07-15 15:05:04.599  system_uptime:84873717]
+    // Sending event #4800
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(140.0,185.0)
+:Sending Touch (ACTION_UP): 0:(140.21675,192.2052)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(84.0,606.0)
+:Sending Touch (ACTION_UP): 0:(85.44187,606.1401)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(78.0,46.0)
+:Sending Touch (ACTION_UP): 0:(87.98625,47.326183)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(186.0,511.0)
+:Sending Touch (ACTION_UP): 0:(192.53842,510.66962)
+:Sending Touch (ACTION_DOWN): 0:(654.0,1149.0)
+:Sending Touch (ACTION_UP): 0:(658.1829,1148.0048)
+:Sending Touch (ACTION_DOWN): 0:(380.0,304.0)
+:Sending Touch (ACTION_UP): 0:(375.38724,302.73203)
+:Sending Touch (ACTION_DOWN): 0:(339.0,1014.0)
+:Sending Touch (ACTION_UP): 0:(337.32376,1025.7754)
+:Sending Touch (ACTION_DOWN): 0:(135.0,578.0)
+:Sending Touch (ACTION_UP): 0:(134.9297,578.5625)
+:Sending Touch (ACTION_DOWN): 0:(552.0,633.0)
+:Sending Touch (ACTION_UP): 0:(553.06396,634.66296)
+:Sending Touch (ACTION_DOWN): 0:(581.0,793.0)
+:Sending Touch (ACTION_UP): 0:(565.16156,805.1125)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    //[calendar_time:2014-07-15 15:05:11.089  system_uptime:84880207]
+    // Sending event #4900
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(475.0,138.0)
+:Sending Touch (ACTION_UP): 0:(478.28522,140.8571)
+:Sending Touch (ACTION_DOWN): 0:(493.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(415.53735,1230.6987)
+:Sending Touch (ACTION_DOWN): 0:(627.0,45.0)
+:Sending Touch (ACTION_UP): 0:(662.4587,19.503025)
+:Sending Touch (ACTION_DOWN): 0:(627.0,194.0)
+:Sending Touch (ACTION_UP): 0:(631.4812,213.19087)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(496.0,776.0)
+:Sending Touch (ACTION_UP): 0:(613.755,865.726)
+:Sending Touch (ACTION_DOWN): 0:(254.0,59.0)
+:Sending Touch (ACTION_UP): 0:(253.64992,77.702354)
+:Sending Touch (ACTION_DOWN): 0:(49.0,714.0)
+:Sending Touch (ACTION_UP): 0:(19.450321,746.5549)
+:Sending Touch (ACTION_DOWN): 0:(606.0,336.0)
+:Sending Touch (ACTION_UP): 0:(587.7088,349.56482)
+    //[calendar_time:2014-07-15 15:05:15.126  system_uptime:84884244]
+    // Sending event #5000
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(83.0,79.0)
+:Sending Touch (ACTION_UP): 0:(82.876656,65.12575)
+:Sending Touch (ACTION_DOWN): 0:(527.0,678.0)
+:Sending Touch (ACTION_UP): 0:(509.90433,679.7653)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(513.0,606.0)
+:Sending Touch (ACTION_UP): 0:(513.41016,605.9017)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(289.0,318.0)
+:Sending Touch (ACTION_UP): 0:(257.50375,365.0155)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(120.0,945.0)
+:Sending Touch (ACTION_UP): 0:(126.62452,923.43616)
+:Sending Touch (ACTION_DOWN): 0:(554.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(545.18726,1266.8004)
+    // Rejecting start of Intent { act=com.android.contacts.action.SHOW_OR_CREATE_CONTACT dat=mailto:xxxxxxxx@xxxx.xxx cmp=com.android.contacts/.activities.ShowOrCreateActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(435.0,161.0)
+:Sending Touch (ACTION_UP): 0:(437.35446,163.22668)
+:Sending Touch (ACTION_DOWN): 0:(291.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(274.8001,1028.7562)
+:Sending Touch (ACTION_DOWN): 0:(244.0,993.0)
+:Sending Touch (ACTION_UP): 0:(235.40991,993.776)
+:Sending Touch (ACTION_DOWN): 0:(635.0,469.0)
+    //[calendar_time:2014-07-15 15:05:23.085  system_uptime:84892203]
+    // Sending event #5100
+:Sending Touch (ACTION_UP): 0:(658.4216,525.71924)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(62.0,500.0)
+:Sending Touch (ACTION_UP): 0:(71.72124,501.6766)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(405.6655,1172.724)
+:Sending Touch (ACTION_DOWN): 0:(337.0,559.0)
+:Sending Touch (ACTION_UP): 0:(338.41412,565.73364)
+:Sending Touch (ACTION_DOWN): 0:(569.0,470.0)
+:Sending Touch (ACTION_UP): 0:(586.65247,471.13226)
+:Sending Touch (ACTION_DOWN): 0:(49.0,787.0)
+:Sending Touch (ACTION_UP): 0:(51.524567,792.44385)
+:Sending Touch (ACTION_DOWN): 0:(505.0,263.0)
+:Sending Touch (ACTION_UP): 0:(494.8232,272.12137)
+:Sending Touch (ACTION_DOWN): 0:(173.0,336.0)
+:Sending Touch (ACTION_UP): 0:(174.57745,325.29163)
+:Sending Touch (ACTION_DOWN): 0:(372.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(383.6327,1280.0)
+    // Rejecting start of Intent { act=com.android.contacts.action.SHOW_OR_CREATE_CONTACT dat=mailto:xxxxxxxx@xxxx.xxx cmp=com.android.contacts/.activities.ShowOrCreateActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(104.0,100.0)
+:Sending Touch (ACTION_UP): 0:(104.30158,115.72756)
+:Sending Touch (ACTION_DOWN): 0:(281.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(281.78125,1139.7994)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    // activityResuming(com.richinfo.thinkmail)
+    //[calendar_time:2014-07-15 15:05:29.366  system_uptime:84898484]
+    // Sending event #5200
+:Sending Touch (ACTION_DOWN): 0:(379.0,377.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_UP): 0:(374.8411,365.98877)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(67.0,208.0)
+:Sending Touch (ACTION_UP): 0:(51.36571,217.15982)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(463.0,1027.0)
+:Sending Touch (ACTION_UP): 0:(499.33908,990.40533)
+:Sending Touch (ACTION_DOWN): 0:(690.0,629.0)
+:Sending Touch (ACTION_UP): 0:(716.2593,691.99207)
+:Sending Touch (ACTION_DOWN): 0:(274.0,98.0)
+:Sending Touch (ACTION_UP): 0:(278.23297,85.81194)
+:Sending Touch (ACTION_DOWN): 0:(278.0,919.0)
+:Sending Touch (ACTION_UP): 0:(275.3309,918.49866)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(580.0,527.0)
+:Sending Touch (ACTION_UP): 0:(579.879,510.9)
+:Sending Touch (ACTION_DOWN): 0:(712.0,726.0)
+:Sending Touch (ACTION_UP): 0:(719.31433,736.7856)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(295.0,742.0)
+:Sending Touch (ACTION_UP): 0:(293.89383,713.51355)
+:Sending Touch (ACTION_DOWN): 0:(403.0,916.0)
+:Sending Touch (ACTION_UP): 0:(410.153,921.0862)
+:Sending Touch (ACTION_DOWN): 0:(142.0,102.0)
+:Sending Touch (ACTION_UP): 0:(126.81929,97.40809)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    //[calendar_time:2014-07-15 15:05:35.886  system_uptime:84905004]
+    // Sending event #5300
+:Sending Touch (ACTION_DOWN): 0:(485.0,193.0)
+:Sending Touch (ACTION_UP): 0:(480.78888,187.33345)
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(432.0,229.0)
+:Sending Touch (ACTION_UP): 0:(422.05032,226.5199)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,1172.0)
+:Sending Touch (ACTION_UP): 0:(184.1614,1180.0222)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2014-07-15 15:05:39.745  system_uptime:84908863]
+    // Sending event #5400
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(164.0,1227.0)
+:Sending Touch (ACTION_UP): 0:(120.178696,1197.856)
+:Sending Touch (ACTION_DOWN): 0:(536.0,623.0)
+:Sending Touch (ACTION_UP): 0:(576.36145,683.8357)
+:Sending Touch (ACTION_DOWN): 0:(586.0,745.0)
+:Sending Touch (ACTION_UP): 0:(570.4309,750.70245)
+:Sending Touch (ACTION_DOWN): 0:(646.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(649.9127,1028.9564)
+:Sending Touch (ACTION_DOWN): 0:(424.0,324.0)
+:Sending Touch (ACTION_UP): 0:(424.27698,319.20044)
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(557.0,978.0)
+:Sending Touch (ACTION_UP): 0:(565.8108,976.9526)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(231.0,622.0)
+:Sending Touch (ACTION_UP): 0:(230.74498,609.327)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(468.0,621.0)
+:Sending Touch (ACTION_UP): 0:(472.80313,626.5705)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(68.0,622.0)
+:Sending Touch (ACTION_UP): 0:(63.73264,632.23755)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Flip keyboardOpen=true
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2014-07-15 15:05:45.855  system_uptime:84914972]
+    // Sending event #5500
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(652.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(656.87946,1039.9307)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(564.0,1021.0)
+:Sending Touch (ACTION_UP): 0:(558.40265,1017.72003)
+:Sending Touch (ACTION_DOWN): 0:(684.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(684.50824,1123.3016)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(366.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(362.9309,1172.6614)
+:Sending Touch (ACTION_DOWN): 0:(265.0,928.0)
+:Sending Touch (ACTION_UP): 0:(270.46826,920.345)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(298.0,1179.0)
+:Sending Touch (ACTION_UP): 0:(293.7162,1177.725)
+:Sending Touch (ACTION_DOWN): 0:(676.0,364.0)
+:Sending Touch (ACTION_UP): 0:(680.2436,354.88144)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(516.0,1176.0)
+:Sending Touch (ACTION_UP): 0:(492.25793,1175.5603)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2014-07-15 15:05:53.842  system_uptime:84922960]
+    // Sending event #5600
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(15.0,982.0)
+:Sending Touch (ACTION_UP): 0:(0.0,978.86426)
+:Sending Touch (ACTION_DOWN): 0:(269.0,652.0)
+:Sending Touch (ACTION_UP): 0:(268.33932,651.3601)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(149.0,263.0)
+:Sending Touch (ACTION_UP): 0:(174.16516,254.2725)
+:Sending Touch (ACTION_DOWN): 0:(379.0,983.0)
+:Sending Touch (ACTION_UP): 0:(374.0881,968.99634)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(635.0,799.0)
+:Sending Touch (ACTION_UP): 0:(622.3873,806.2387)
+:Sending Touch (ACTION_DOWN): 0:(223.0,343.0)
+:Sending Touch (ACTION_UP): 0:(219.99266,339.94995)
+    // activityResuming(com.richinfo.thinkmail)
+    //[calendar_time:2014-07-15 15:05:57.525  system_uptime:84926642]
+    // Sending event #5700
+    // activityResuming(com.richinfo.thinkmail)
+    //[calendar_time:2014-07-15 15:05:57.726  system_uptime:84926843]
+    // Sending event #5700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(385.0,702.0)
+:Sending Touch (ACTION_UP): 0:(389.817,696.41644)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(531.0,845.0)
+:Sending Touch (ACTION_UP): 0:(538.6068,844.0753)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(352.0,888.0)
+:Sending Touch (ACTION_UP): 0:(404.0487,865.4699)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(190.0,61.0)
+:Sending Touch (ACTION_UP): 0:(173.81853,120.73885)
+:Sending Touch (ACTION_DOWN): 0:(41.0,474.0)
+:Sending Touch (ACTION_UP): 0:(45.468178,475.03787)
+:Sending Touch (ACTION_DOWN): 0:(474.0,1235.0)
+:Sending Touch (ACTION_UP): 0:(464.63495,1198.4573)
+    // Rejecting start of Intent { act=com.android.contacts.action.SHOW_OR_CREATE_CONTACT dat=mailto:xxxxxxxx@xxxx.xxx cmp=com.android.contacts/.activities.ShowOrCreateActivity } in package com.android.contacts
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(372.0,224.0)
+:Sending Touch (ACTION_UP): 0:(372.1455,219.05028)
+:Sending Touch (ACTION_DOWN): 0:(674.0,1014.0)
+:Sending Touch (ACTION_UP): 0:(720.0,885.7565)
+    //[calendar_time:2014-07-15 15:06:02.039  system_uptime:84931156]
+    // Sending event #5800
+    //[calendar_time:2014-07-15 15:06:02.239  system_uptime:84931357]
+    // Sending event #5800
+:Sending Touch (ACTION_DOWN): 0:(528.0,31.0)
+:Sending Touch (ACTION_UP): 0:(529.3561,29.138153)
+:Sending Touch (ACTION_DOWN): 0:(38.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(34.260513,1077.3799)
+:Sending Touch (ACTION_DOWN): 0:(150.0,996.0)
+:Sending Touch (ACTION_UP): 0:(214.16068,1077.674)
+:Sending Touch (ACTION_DOWN): 0:(631.0,834.0)
+:Sending Touch (ACTION_UP): 0:(720.0,808.447)
+:Sending Touch (ACTION_DOWN): 0:(427.0,163.0)
+:Sending Touch (ACTION_UP): 0:(414.88388,159.32318)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(382.0,651.0)
+:Sending Touch (ACTION_UP): 0:(330.59818,623.62744)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(686.0,710.0)
+:Sending Touch (ACTION_UP): 0:(648.49176,690.15826)
+:Sending Touch (ACTION_DOWN): 0:(682.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(667.91315,1156.1058)
+:Sending Touch (ACTION_DOWN): 0:(305.0,330.0)
+:Sending Touch (ACTION_UP): 0:(309.07495,346.43735)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2014-07-15 15:06:07.307  system_uptime:84936425]
+    // Sending event #5900
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(540.0,529.0)
+:Sending Touch (ACTION_UP): 0:(559.0116,525.3215)
+:Sending Touch (ACTION_DOWN): 0:(48.0,774.0)
+:Sending Touch (ACTION_UP): 0:(46.353394,773.4469)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(541.0,784.0)
+:Sending Touch (ACTION_UP): 0:(536.44446,778.09766)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(222.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(315.98566,1280.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(585.0,851.0)
+:Sending Touch (ACTION_UP): 0:(587.85724,842.81)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(692.0,1267.0)
+:Sending Touch (ACTION_UP): 0:(671.5212,1228.3025)
+    // Rejecting start of Intent { act=com.android.contacts.action.SHOW_OR_CREATE_CONTACT dat=mailto:xxxxxxxx@xxxx.xxx cmp=com.android.contacts/.activities.ShowOrCreateActivity } in package com.android.contacts
+    //[calendar_time:2014-07-15 15:06:10.869  system_uptime:84939987]
+    // Sending event #6000
+    //[calendar_time:2014-07-15 15:06:11.070  system_uptime:84940189]
+    // Sending event #6000
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(668.0,792.0)
+:Sending Touch (ACTION_UP): 0:(644.5601,792.36884)
+    // activityResuming(com.richinfo.thinkmail)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(426.0,1233.0)
+:Sending Touch (ACTION_UP): 0:(355.0598,1280.0)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.contact.ContactDetailActivity } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(348.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(358.2378,1235.9099)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2014-07-15 15:06:13.504  system_uptime:84942622]
+    // Sending event #6100
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(547.0,579.0)
+:Sending Touch (ACTION_UP): 0:(599.34174,607.479)
+:Sending Touch (ACTION_DOWN): 0:(360.0,347.0)
+:Sending Touch (ACTION_UP): 0:(359.8407,342.12277)
+:Sending Touch (ACTION_DOWN): 0:(531.0,657.0)
+:Sending Touch (ACTION_UP): 0:(449.93045,604.64154)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(520.0,666.0)
+:Sending Touch (ACTION_UP): 0:(514.9678,659.43286)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(75.0,416.0)
+:Sending Touch (ACTION_UP): 0:(80.20036,411.3396)
+    // Allowing start of Intent { act=android.intent.action.SENDTO cmp=com.richinfo.thinkmail/.ui.messagecompose.MessageCompose } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(31.0,476.0)
+:Sending Touch (ACTION_UP): 0:(99.47153,451.7569)
+:Sending Touch (ACTION_DOWN): 0:(35.0,703.0)
+:Sending Touch (ACTION_UP): 0:(33.1681,706.216)
+:Sending Touch (ACTION_DOWN): 0:(85.0,1246.0)
+:Sending Touch (ACTION_UP): 0:(83.20907,1244.0533)
+:Sending Touch (ACTION_DOWN): 0:(116.0,567.0)
+    //[calendar_time:2014-07-15 15:06:18.961  system_uptime:84948079]
+    // Sending event #6200
+:Sending Touch (ACTION_UP): 0:(73.74191,490.21152)
+:Sending Touch (ACTION_DOWN): 0:(553.0,414.0)
+:Sending Touch (ACTION_UP): 0:(539.8137,433.41507)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(612.0,247.0)
+:Sending Touch (ACTION_UP): 0:(615.4028,247.02524)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(595.0,867.0)
+:Sending Touch (ACTION_UP): 0:(640.9384,809.78516)
+:Sending Touch (ACTION_DOWN): 0:(543.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(525.62854,1116.8114)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(582.0,53.0)
+:Sending Touch (ACTION_UP): 0:(594.8133,58.43607)
+:Sending Touch (ACTION_DOWN): 0:(349.0,944.0)
+:Sending Touch (ACTION_UP): 0:(338.62033,943.1442)
+:Sending Touch (ACTION_DOWN): 0:(111.0,63.0)
+:Sending Touch (ACTION_UP): 0:(106.06589,60.916595)
+:Sending Touch (ACTION_DOWN): 0:(711.0,661.0)
+:Sending Touch (ACTION_UP): 0:(720.0,665.77)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    //[calendar_time:2014-07-15 15:06:25.166  system_uptime:84954284]
+    // Sending event #6300
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(655.0,28.0)
+:Sending Touch (ACTION_UP): 0:(649.6529,29.651405)
+:Sending Touch (ACTION_DOWN): 0:(285.0,440.0)
+:Sending Touch (ACTION_UP): 0:(290.03937,509.63766)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(149.0,110.0)
+:Sending Touch (ACTION_UP): 0:(122.90884,187.61159)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(290.0,1147.0)
+    //[calendar_time:2014-07-15 15:06:30.439  system_uptime:84959557]
+    // Sending event #6400
+:Sending Touch (ACTION_UP): 0:(288.67972,1150.6674)
+:Sending Touch (ACTION_DOWN): 0:(597.0,140.0)
+:Sending Touch (ACTION_UP): 0:(651.5103,154.46602)
+:Sending Touch (ACTION_DOWN): 0:(74.0,33.0)
+:Sending Touch (ACTION_UP): 0:(171.71858,74.84795)
+:Sending Touch (ACTION_DOWN): 0:(507.0,152.0)
+:Sending Touch (ACTION_UP): 0:(512.5673,159.30183)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(646.0,345.0)
+:Sending Touch (ACTION_UP): 0:(646.8108,332.95142)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(69.0,163.0)
+:Sending Touch (ACTION_UP): 0:(0.0,181.8527)
+:Sending Touch (ACTION_DOWN): 0:(96.0,471.0)
+:Sending Touch (ACTION_UP): 0:(93.7437,468.63525)
+:Sending Touch (ACTION_DOWN): 0:(184.0,924.0)
+:Sending Touch (ACTION_UP): 0:(201.50742,913.76404)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(354.0,1269.0)
+:Sending Touch (ACTION_UP): 0:(359.07346,1280.0)
+    //[calendar_time:2014-07-15 15:06:35.795  system_uptime:84964913]
+    // Sending event #6500
+    //[calendar_time:2014-07-15 15:06:35.996  system_uptime:84965114]
+    // Sending event #6500
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(178.0,35.0)
+:Sending Touch (ACTION_UP): 0:(174.12526,33.92855)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(610.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(611.61633,1146.3512)
+:Sending Touch (ACTION_DOWN): 0:(366.0,780.0)
+:Sending Touch (ACTION_UP): 0:(374.34058,784.4328)
+:Sending Touch (ACTION_DOWN): 0:(317.0,610.0)
+:Sending Touch (ACTION_UP): 0:(242.03043,643.1515)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(46.0,928.0)
+:Sending Touch (ACTION_UP): 0:(25.353413,928.53345)
+:Sending Touch (ACTION_DOWN): 0:(247.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(249.995,1260.0881)
+    //[calendar_time:2014-07-15 15:06:40.739  system_uptime:84969856]
+    // Sending event #6600
+    //[calendar_time:2014-07-15 15:06:40.940  system_uptime:84970058]
+    // Sending event #6600
+:Sending Touch (ACTION_DOWN): 0:(299.0,363.0)
+:Sending Touch (ACTION_UP): 0:(361.91687,337.67496)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(606.0,683.0)
+:Sending Touch (ACTION_UP): 0:(565.1437,622.4118)
+:Sending Touch (ACTION_DOWN): 0:(579.0,35.0)
+:Sending Touch (ACTION_UP): 0:(579.71387,49.009766)
+:Sending Touch (ACTION_DOWN): 0:(380.0,749.0)
+:Sending Touch (ACTION_UP): 0:(383.31757,741.4833)
+:Sending Touch (ACTION_DOWN): 0:(40.0,387.0)
+:Sending Touch (ACTION_UP): 0:(38.469513,375.34967)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2014-07-15 15:06:47.906  system_uptime:84977023]
+    // Sending event #6700
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(316.0,1152.0)
+:Sending Touch (ACTION_UP): 0:(274.2054,1118.931)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,274.0)
+:Sending Touch (ACTION_UP): 0:(237.52165,304.71106)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(562.0,559.0)
+    //[calendar_time:2014-07-15 15:06:51.789  system_uptime:84980907]
+    // Sending event #6800
+:Sending Touch (ACTION_UP): 0:(606.11926,546.69165)
+:Sending Touch (ACTION_DOWN): 0:(129.0,359.0)
+:Sending Touch (ACTION_UP): 0:(128.38599,358.12744)
+:Sending Touch (ACTION_DOWN): 0:(306.0,909.0)
+:Sending Touch (ACTION_UP): 0:(293.75385,905.4923)
+    // activityResuming(com.richinfo.thinkmail)
+    // Allowing start of Intent { act=com.richinfo.thinkmail.intent.action.COMPOSE cmp=com.richinfo.thinkmail/.ui.messagecompose.MessageCompose } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(671.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(675.0906,1056.4987)
+:Sending Touch (ACTION_DOWN): 0:(46.0,864.0)
+:Sending Touch (ACTION_UP): 0:(38.997444,847.5603)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(192.0,616.0)
+:Sending Touch (ACTION_UP): 0:(189.5005,613.51685)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(676.0,151.0)
+:Sending Touch (ACTION_UP): 0:(675.75916,160.57013)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.MessageSearchActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(304.0,138.0)
+:Sending Touch (ACTION_UP): 0:(305.7669,136.51912)
+:Sending Touch (ACTION_DOWN): 0:(130.0,17.0)
+:Sending Touch (ACTION_UP): 0:(101.70313,3.5629814)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(365.0,960.0)
+:Sending Touch (ACTION_UP): 0:(373.00757,965.76495)
+:Sending Touch (ACTION_DOWN): 0:(545.0,581.0)
+:Sending Touch (ACTION_UP): 0:(545.31464,592.293)
+:Sending Touch (ACTION_DOWN): 0:(402.0,69.0)
+:Sending Touch (ACTION_UP): 0:(402.26285,61.16163)
+:Sending Touch (ACTION_DOWN): 0:(602.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(595.58795,1043.1642)
+:Sending Touch (ACTION_DOWN): 0:(208.0,428.0)
+    //[calendar_time:2014-07-15 15:06:59.050  system_uptime:84988168]
+    // Sending event #6900
+:Sending Touch (ACTION_UP): 0:(207.72963,432.9659)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(389.0,808.0)
+:Sending Touch (ACTION_UP): 0:(378.8991,798.20056)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(647.0,993.0)
+:Sending Touch (ACTION_UP): 0:(635.354,986.7672)
+:Sending Touch (ACTION_DOWN): 0:(126.0,275.0)
+:Sending Touch (ACTION_UP): 0:(178.88802,224.23248)
+:Sending Touch (ACTION_DOWN): 0:(513.0,943.0)
+:Sending Touch (ACTION_UP): 0:(536.1996,934.4497)
+:Sending Touch (ACTION_DOWN): 0:(527.0,176.0)
+:Sending Touch (ACTION_UP): 0:(513.6817,175.89796)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(618.0,597.0)
+    //[calendar_time:2014-07-15 15:07:03.069  system_uptime:84992187]
+    // Sending event #7000
+:Sending Touch (ACTION_UP): 0:(673.5946,562.184)
+:Sending Touch (ACTION_DOWN): 0:(354.0,1049.0)
+:Sending Touch (ACTION_UP): 0:(352.89496,1057.9626)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,347.0)
+:Sending Touch (ACTION_UP): 0:(591.48083,390.6731)
+:Sending Touch (ACTION_DOWN): 0:(256.0,382.0)
+:Sending Touch (ACTION_UP): 0:(255.40808,396.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(29.0,1198.0)
+:Sending Touch (ACTION_UP): 0:(32.094498,1164.1947)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(18.0,580.0)
+:Sending Touch (ACTION_UP): 0:(34.368904,586.1202)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(568.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(571.5447,1165.3887)
+    //[calendar_time:2014-07-15 15:07:07.934  system_uptime:84997052]
+    // Sending event #7100
+    // activityResuming(com.richinfo.thinkmail)
+    //[calendar_time:2014-07-15 15:07:08.135  system_uptime:84997253]
+    // Sending event #7100
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(585.0,333.0)
+:Sending Touch (ACTION_UP): 0:(583.59766,318.56818)
+:Sending Touch (ACTION_DOWN): 0:(397.0,476.0)
+:Sending Touch (ACTION_UP): 0:(396.6176,480.8416)
+:Sending Touch (ACTION_DOWN): 0:(265.0,76.0)
+:Sending Touch (ACTION_UP): 0:(253.43576,82.350136)
+    // Allowing start of Intent { act=com.richinfo.thinkmail.intent.action.EDIT_DRAFT cmp=com.richinfo.thinkmail/.ui.messagecompose.MessageCompose } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(709.0,715.0)
+:Sending Touch (ACTION_UP): 0:(708.8503,718.23926)
+    // activityResuming(com.richinfo.thinkmail)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(717.0,136.0)
+:Sending Touch (ACTION_UP): 0:(691.90265,27.50973)
+    // Allowing start of Intent { act=com.richinfo.thinkmail.intent.action.COMPOSE cmp=com.richinfo.thinkmail/.ui.messagecompose.MessageCompose } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(611.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(608.50885,1241.2537)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(78.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(74.19473,1209.3354)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(215.0,122.0)
+:Sending Touch (ACTION_UP): 0:(204.14008,121.80126)
+:Sending Touch (ACTION_DOWN): 0:(5.0,743.0)
+:Sending Touch (ACTION_UP): 0:(75.95125,830.1304)
+:Sending Touch (ACTION_DOWN): 0:(707.0,136.0)
+:Sending Touch (ACTION_UP): 0:(720.0,146.72295)
+    //[calendar_time:2014-07-15 15:07:13.714  system_uptime:85002832]
+    // Sending event #7200
+    //[calendar_time:2014-07-15 15:07:13.915  system_uptime:85003033]
+    // Sending event #7200
+:Sending Touch (ACTION_DOWN): 0:(615.0,90.0)
+:Sending Touch (ACTION_UP): 0:(556.53687,54.46272)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(709.0,844.0)
+:Sending Touch (ACTION_UP): 0:(710.4308,843.9782)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(110.0,419.0)
+:Sending Touch (ACTION_UP): 0:(95.522484,354.36765)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2014-07-15 15:07:18.165  system_uptime:85007283]
+    // Sending event #7300
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(541.0,455.0)
+:Sending Touch (ACTION_UP): 0:(559.0165,464.28812)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(16.0,658.0)
+:Sending Touch (ACTION_UP): 0:(21.521877,649.6695)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(428.0,677.0)
+:Sending Touch (ACTION_UP): 0:(332.53998,611.00684)
+:Sending Touch (ACTION_DOWN): 0:(671.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(677.0471,1016.3553)
+:Sending Touch (ACTION_DOWN): 0:(626.0,175.0)
+:Sending Touch (ACTION_UP): 0:(636.168,207.70561)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(86.0,456.0)
+:Sending Touch (ACTION_UP): 0:(86.85251,439.24878)
+:Sending Touch (ACTION_DOWN): 0:(76.0,551.0)
+:Sending Touch (ACTION_UP): 0:(0.0,521.9952)
+:Sending Touch (ACTION_DOWN): 0:(465.0,657.0)
+:Sending Touch (ACTION_UP): 0:(456.1295,657.0213)
+    //[calendar_time:2014-07-15 15:07:26.016  system_uptime:85015133]
+    // Sending event #7400
+    //[calendar_time:2014-07-15 15:07:26.217  system_uptime:85015336]
+    // Sending event #7400
+:Sending Touch (ACTION_DOWN): 0:(27.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(62.633625,1088.3081)
+:Sending Touch (ACTION_DOWN): 0:(716.0,834.0)
+:Sending Touch (ACTION_UP): 0:(694.18494,824.2968)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calendar/.AllInOneActivity } in package com.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(328.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(329.82266,1084.4515)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(306.0,162.0)
+:Sending Touch (ACTION_UP): 0:(313.10596,162.20366)
+:Sending Touch (ACTION_DOWN): 0:(477.0,498.0)
+:Sending Touch (ACTION_UP): 0:(480.3209,492.51483)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,109.0)
+:Sending Touch (ACTION_UP): 0:(267.23175,103.860565)
+:Sending Touch (ACTION_DOWN): 0:(699.0,1131.0)
+:Sending Touch (ACTION_UP): 0:(702.96497,1140.1832)
+:Sending Touch (ACTION_DOWN): 0:(154.0,885.0)
+:Sending Touch (ACTION_UP): 0:(133.8589,889.2523)
+    //[calendar_time:2014-07-15 15:07:33.336  system_uptime:85022453]
+    // Sending event #7500
+:Sending Touch (ACTION_DOWN): 0:(345.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(349.41943,1057.6484)
+:Sending Touch (ACTION_DOWN): 0:(409.0,826.0)
+:Sending Touch (ACTION_UP): 0:(418.99207,821.23773)
+:Sending Touch (ACTION_DOWN): 0:(160.0,627.0)
+:Sending Touch (ACTION_UP): 0:(115.12557,596.2093)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(630.0,783.0)
+:Sending Touch (ACTION_UP): 0:(591.73364,811.8452)
+:Sending Touch (ACTION_DOWN): 0:(113.0,206.0)
+:Sending Touch (ACTION_UP): 0:(61.885944,236.23824)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(697.0,598.0)
+:Sending Touch (ACTION_UP): 0:(681.1114,615.9056)
+:Sending Touch (ACTION_DOWN): 0:(362.0,351.0)
+:Sending Touch (ACTION_UP): 0:(421.4599,240.7728)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(187.0,189.0)
+:Sending Touch (ACTION_UP): 0:(211.41284,170.9348)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2014-07-15 15:07:38.866  system_uptime:85027984]
+    // Sending event #7600
+:Sending Touch (ACTION_DOWN): 0:(388.0,416.0)
+:Sending Touch (ACTION_UP): 0:(397.93225,433.8265)
+:Sending Touch (ACTION_DOWN): 0:(586.0,966.0)
+:Sending Touch (ACTION_UP): 0:(616.55273,956.8326)
+:Sending Touch (ACTION_DOWN): 0:(663.0,972.0)
+:Sending Touch (ACTION_UP): 0:(670.327,971.69025)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(107.0,518.0)
+:Sending Touch (ACTION_UP): 0:(66.35414,520.84686)
+:Sending Touch (ACTION_DOWN): 0:(482.0,972.0)
+:Sending Touch (ACTION_UP): 0:(475.49454,970.3097)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.setting.AccountFloders } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(427.0,712.0)
+:Sending Touch (ACTION_UP): 0:(490.19226,683.92694)
+    //[calendar_time:2014-07-15 15:07:45.035  system_uptime:85034153]
+    // Sending event #7700
+:Sending Touch (ACTION_DOWN): 0:(486.0,126.0)
+:Sending Touch (ACTION_UP): 0:(485.40433,132.31235)
+:Sending Touch (ACTION_DOWN): 0:(443.0,627.0)
+:Sending Touch (ACTION_UP): 0:(445.82538,641.87915)
+:Sending Touch (ACTION_DOWN): 0:(138.0,125.0)
+:Sending Touch (ACTION_UP): 0:(146.1173,188.28323)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(356.0,1067.0)
+:Sending Touch (ACTION_UP): 0:(342.39655,1120.1665)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(425.0,554.0)
+:Sending Touch (ACTION_UP): 0:(427.04254,554.74005)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(138.0,628.0)
+:Sending Touch (ACTION_UP): 0:(188.5265,515.466)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(135.0,413.0)
+:Sending Touch (ACTION_UP): 0:(91.41764,440.26028)
+:Sending Touch (ACTION_DOWN): 0:(199.0,576.0)
+:Sending Touch (ACTION_UP): 0:(192.19466,577.58734)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    //[calendar_time:2014-07-15 15:07:48.466  system_uptime:85037583]
+    // Sending event #7800
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(463.0,194.0)
+:Sending Touch (ACTION_UP): 0:(468.09747,192.5902)
+:Sending Touch (ACTION_DOWN): 0:(299.0,339.0)
+:Sending Touch (ACTION_UP): 0:(291.47806,339.70898)
+:Sending Touch (ACTION_DOWN): 0:(64.0,244.0)
+:Sending Touch (ACTION_UP): 0:(47.11358,236.01442)
+:Sending Touch (ACTION_DOWN): 0:(657.0,810.0)
+:Sending Touch (ACTION_UP): 0:(634.9452,828.0457)
+:Sending Touch (ACTION_DOWN): 0:(647.0,683.0)
+:Sending Touch (ACTION_UP): 0:(646.732,687.7577)
+:Sending Touch (ACTION_DOWN): 0:(379.0,287.0)
+:Sending Touch (ACTION_UP): 0:(395.71167,319.2621)
+:Sending Touch (ACTION_DOWN): 0:(503.0,715.0)
+:Sending Touch (ACTION_UP): 0:(517.44977,743.9622)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(375.0,978.0)
+:Sending Touch (ACTION_UP): 0:(377.34402,990.41626)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2014-07-15 15:07:53.951  system_uptime:85043069]
+    // Sending event #7900
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(647.0,1187.0)
+:Sending Touch (ACTION_UP): 0:(657.56805,1177.4187)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(610.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(533.4416,1153.5479)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(376.0,596.0)
+:Sending Touch (ACTION_UP): 0:(377.69266,601.6119)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(442.0,158.0)
+:Sending Touch (ACTION_UP): 0:(443.56976,160.51201)
+:Sending Touch (ACTION_DOWN): 0:(248.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(261.273,1013.9279)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(279.0,1056.0)
+:Sending Touch (ACTION_UP): 0:(277.49463,1072.8917)
+:Sending Touch (ACTION_DOWN): 0:(347.0,582.0)
+:Sending Touch (ACTION_UP): 0:(359.2133,582.91583)
+:Sending Touch (ACTION_DOWN): 0:(271.0,413.0)
+:Sending Touch (ACTION_UP): 0:(287.86887,414.3306)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2014-07-15 15:08:00.297  system_uptime:85049415]
+    // Sending event #8000
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(568.0,338.0)
+:Sending Touch (ACTION_UP): 0:(556.52423,341.17178)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(310.0,631.0)
+:Sending Touch (ACTION_UP): 0:(303.74274,631.9627)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(677.0,493.0)
+:Sending Touch (ACTION_UP): 0:(702.39905,515.93665)
+:Sending Touch (ACTION_DOWN): 0:(396.0,1056.0)
+:Sending Touch (ACTION_UP): 0:(396.54282,1045.9009)
+:Sending Touch (ACTION_DOWN): 0:(553.0,652.0)
+:Sending Touch (ACTION_UP): 0:(551.9607,648.55176)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2014-07-15 15:08:03.640  system_uptime:85052758]
+    // Sending event #8100
+:Sending Touch (ACTION_DOWN): 0:(245.0,187.0)
+:Sending Touch (ACTION_UP): 0:(250.09029,210.07764)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(707.0,911.0)
+:Sending Touch (ACTION_UP): 0:(715.419,917.786)
+:Sending Touch (ACTION_DOWN): 0:(184.0,1175.0)
+:Sending Touch (ACTION_UP): 0:(187.01535,1180.0417)
+:Sending Touch (ACTION_DOWN): 0:(55.0,360.0)
+:Sending Touch (ACTION_UP): 0:(58.18743,364.41653)
+:Sending Touch (ACTION_DOWN): 0:(155.0,12.0)
+:Sending Touch (ACTION_UP): 0:(168.67494,14.657492)
+:Sending Touch (ACTION_DOWN): 0:(416.0,469.0)
+:Sending Touch (ACTION_UP): 0:(415.24307,458.76385)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(543.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(542.97003,1026.6104)
+:Sending Touch (ACTION_DOWN): 0:(654.0,1070.0)
+:Sending Touch (ACTION_UP): 0:(650.7246,1070.229)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(443.0,385.0)
+:Sending Touch (ACTION_UP): 0:(439.45697,391.3077)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(126.0,944.0)
+:Sending Touch (ACTION_UP): 0:(82.08189,906.4416)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2014-07-15 15:08:09.562  system_uptime:85058679]
+    // Sending event #8200
+:Sending Touch (ACTION_DOWN): 0:(669.0,204.0)
+:Sending Touch (ACTION_UP): 0:(666.3124,169.2962)
+:Sending Touch (ACTION_DOWN): 0:(712.0,953.0)
+:Sending Touch (ACTION_UP): 0:(710.88654,958.9433)
+:Sending Touch (ACTION_DOWN): 0:(55.0,399.0)
+:Sending Touch (ACTION_UP): 0:(50.802998,412.9662)
+:Sending Touch (ACTION_DOWN): 0:(674.0,940.0)
+:Sending Touch (ACTION_UP): 0:(683.1726,927.16986)
+:Sending Touch (ACTION_DOWN): 0:(256.0,954.0)
+:Sending Touch (ACTION_UP): 0:(270.0583,986.24536)
+:Sending Touch (ACTION_DOWN): 0:(175.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(164.69379,1137.3993)
+:Sending Touch (ACTION_DOWN): 0:(641.0,295.0)
+:Sending Touch (ACTION_UP): 0:(647.5636,290.3688)
+:Sending Touch (ACTION_DOWN): 0:(76.0,54.0)
+:Sending Touch (ACTION_UP): 0:(74.90214,45.35139)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(445.0,856.0)
+:Sending Touch (ACTION_UP): 0:(382.76105,829.89453)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    //[calendar_time:2014-07-15 15:08:15.129  system_uptime:85064247]
+    // Sending event #8300
+:Sending Touch (ACTION_DOWN): 0:(285.0,647.0)
+:Sending Touch (ACTION_UP): 0:(360.9569,673.4137)
+:Sending Touch (ACTION_DOWN): 0:(536.0,817.0)
+:Sending Touch (ACTION_UP): 0:(529.0665,819.1279)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(30.0,689.0)
+:Sending Touch (ACTION_UP): 0:(1.5289862,657.93555)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2014-07-15 15:08:18.496  system_uptime:85067614]
+    // Sending event #8400
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(611.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(635.24725,1261.7827)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(101.0,62.0)
+:Sending Touch (ACTION_UP): 0:(103.57513,39.60604)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(713.0,967.0)
+:Sending Touch (ACTION_UP): 0:(694.59033,974.9956)
+:Sending Touch (ACTION_DOWN): 0:(599.0,927.0)
+:Sending Touch (ACTION_UP): 0:(594.18427,929.426)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,368.0)
+:Sending Touch (ACTION_UP): 0:(239.20401,337.44067)
+    //[calendar_time:2014-07-15 15:08:22.281  system_uptime:85071403]
+    // Sending event #8500
+    //[calendar_time:2014-07-15 15:08:22.486  system_uptime:85071604]
+    // Sending event #8500
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(128.0,247.0)
+:Sending Touch (ACTION_UP): 0:(123.04468,239.79912)
+:Sending Touch (ACTION_DOWN): 0:(27.0,140.0)
+:Sending Touch (ACTION_UP): 0:(17.215763,129.7291)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(389.0,555.0)
+:Sending Touch (ACTION_UP): 0:(386.07605,594.27484)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(399.0,639.0)
+:Sending Touch (ACTION_UP): 0:(403.6761,652.2752)
+:Sending Touch (ACTION_DOWN): 0:(342.0,440.0)
+:Sending Touch (ACTION_UP): 0:(336.83728,442.08557)
+:Sending Touch (ACTION_DOWN): 0:(182.0,420.0)
+:Sending Touch (ACTION_UP): 0:(191.98708,391.1191)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2014-07-15 15:08:26.447  system_uptime:85075565]
+    // Sending event #8600
+:Sending Touch (ACTION_DOWN): 0:(592.0,161.0)
+:Sending Touch (ACTION_UP): 0:(588.7938,169.65085)
+:Sending Touch (ACTION_DOWN): 0:(612.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(616.0686,1271.7217)
+:Sending Touch (ACTION_DOWN): 0:(112.0,500.0)
+:Sending Touch (ACTION_UP): 0:(114.55272,500.55356)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(204.0,115.0)
+:Sending Touch (ACTION_UP): 0:(170.27097,95.42238)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(536.0,534.0)
+:Sending Touch (ACTION_UP): 0:(560.5011,486.68643)
+    //[calendar_time:2014-07-15 15:08:30.661  system_uptime:85079779]
+    // Sending event #8700
+    //[calendar_time:2014-07-15 15:08:30.862  system_uptime:85079981]
+    // Sending event #8700
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(684.0,901.0)
+:Sending Touch (ACTION_UP): 0:(670.7585,905.5035)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(673.0,881.0)
+:Sending Touch (ACTION_UP): 0:(681.1125,874.2416)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.thread.ShowThreadMsgActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(417.0,1109.0)
+:Sending Touch (ACTION_UP): 0:(416.14774,1112.7339)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(573.0,717.0)
+:Sending Touch (ACTION_UP): 0:(605.3472,694.73334)
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(89.0,339.0)
+:Sending Touch (ACTION_UP): 0:(99.3056,335.7234)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(595.0,1251.0)
+:Sending Touch (ACTION_UP): 0:(536.41266,1153.9977)
+:Sending Touch (ACTION_DOWN): 0:(201.0,961.0)
+:Sending Touch (ACTION_UP): 0:(188.29846,852.64484)
+:Sending Touch (ACTION_DOWN): 0:(718.0,51.0)
+    //[calendar_time:2014-07-15 15:08:35.961  system_uptime:85085079]
+    // Sending event #8800
+:Sending Touch (ACTION_UP): 0:(716.12067,66.36905)
+:Sending Touch (ACTION_DOWN): 0:(348.0,350.0)
+:Sending Touch (ACTION_UP): 0:(328.49963,373.88535)
+:Sending Touch (ACTION_DOWN): 0:(545.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(526.6851,1053.2467)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://com.richinfo.thinkmail.attachmentprovider/bf347057-1f6e-4a7a-824a-2a7b037407c4/56/RAW typ=doc cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2 } in package cn.wps.moffice_eng
+    // activityResuming(com.richinfo.thinkmail)
+:Sending Touch (ACTION_DOWN): 0:(237.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(230.8463,1101.7542)
+:Sending Touch (ACTION_DOWN): 0:(437.0,20.0)
+:Sending Touch (ACTION_UP): 0:(433.71356,40.470707)
+    // Allowing start of Intent { cmp=com.richinfo.thinkmail/.ui.attachment.AttachmentSearchActivity } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(534.0,322.0)
+:Sending Touch (ACTION_UP): 0:(466.75665,255.09273)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(371.0,3.0)
+:Sending Touch (ACTION_UP): 0:(371.26202,0.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,530.0)
+:Sending Touch (ACTION_UP): 0:(490.13702,533.1986)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(338.0,417.0)
+:Sending Touch (ACTION_UP): 0:(330.59192,411.2878)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://com.richinfo.thinkmail.attachmentprovider/bf347057-1f6e-4a7a-824a-2a7b037407c4/59/RAW typ=doc cmp=cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2 } in package cn.wps.moffice_eng
+:Sending Touch (ACTION_DOWN): 0:(669.0,7.0)
+:Sending Touch (ACTION_UP): 0:(676.32776,4.1548476)
+:Sending Touch (ACTION_DOWN): 0:(655.0,255.0)
+:Sending Touch (ACTION_UP): 0:(659.0704,264.5013)
+:Sending Touch (ACTION_DOWN): 0:(92.0,851.0)
+:Sending Touch (ACTION_UP): 0:(104.35495,855.9481)
+:Sending Touch (ACTION_DOWN): 0:(707.0,968.0)
+    //[calendar_time:2014-07-15 15:08:43.227  system_uptime:85092345]
+    // Sending event #8900
+:Sending Touch (ACTION_UP): 0:(720.0,984.083)
+:Sending Touch (ACTION_DOWN): 0:(338.0,1240.0)
+:Sending Touch (ACTION_UP): 0:(331.06122,1238.286)
+:Sending Touch (ACTION_DOWN): 0:(108.0,950.0)
+:Sending Touch (ACTION_UP): 0:(91.2078,948.21265)
+:Sending Touch (ACTION_DOWN): 0:(96.0,616.0)
+:Sending Touch (ACTION_UP): 0:(101.28557,632.8992)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(13.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(18.306383,1041.6471)
+:Sending Touch (ACTION_DOWN): 0:(317.0,618.0)
+:Sending Touch (ACTION_UP): 0:(301.70404,618.9701)
+:Sending Touch (ACTION_DOWN): 0:(129.0,477.0)
+:Sending Touch (ACTION_UP): 0:(121.18126,477.10092)
+:Sending Touch (ACTION_DOWN): 0:(123.0,949.0)
+:Sending Touch (ACTION_UP): 0:(127.44891,958.4574)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(259.0,841.0)
+:Sending Touch (ACTION_UP): 0:(265.14722,846.19495)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2014-07-15 15:08:49.685  system_uptime:85098803]
+    // Sending event #9000
+:Sending Touch (ACTION_DOWN): 0:(712.0,330.0)
+:Sending Touch (ACTION_UP): 0:(693.62915,330.2367)
+:Sending Touch (ACTION_DOWN): 0:(454.0,3.0)
+:Sending Touch (ACTION_UP): 0:(453.74756,26.32976)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(150.0,627.0)
+:Sending Touch (ACTION_UP): 0:(142.7673,620.6112)
+:Sending Touch (ACTION_DOWN): 0:(471.0,86.0)
+:Sending Touch (ACTION_UP): 0:(465.49133,90.4952)
+:Sending Touch (ACTION_DOWN): 0:(211.0,172.0)
+:Sending Touch (ACTION_UP): 0:(193.04454,162.14159)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(198.0,97.0)
+:Sending Touch (ACTION_UP): 0:(206.37073,106.24272)
+:Sending Touch (ACTION_DOWN): 0:(498.0,942.0)
+:Sending Touch (ACTION_UP): 0:(480.87506,1023.2418)
+:Sending Touch (ACTION_DOWN): 0:(501.0,843.0)
+:Sending Touch (ACTION_UP): 0:(427.01773,811.11194)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(593.0,669.0)
+:Sending Touch (ACTION_UP): 0:(591.3761,679.37006)
+    //[calendar_time:2014-07-15 15:08:54.732  system_uptime:85103849]
+    // Sending event #9100
+    //[calendar_time:2014-07-15 15:08:54.933  system_uptime:85104050]
+    // Sending event #9100
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(40.0,623.0)
+:Sending Touch (ACTION_UP): 0:(76.69245,656.1933)
+:Sending Touch (ACTION_DOWN): 0:(461.0,701.0)
+:Sending Touch (ACTION_UP): 0:(375.46307,790.021)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(190.0,583.0)
+:Sending Touch (ACTION_UP): 0:(196.3591,569.50507)
+:Sending Touch (ACTION_DOWN): 0:(716.0,671.0)
+:Sending Touch (ACTION_UP): 0:(599.3657,779.0904)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(284.73566,1037.7407)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(34.0,591.0)
+:Sending Touch (ACTION_UP): 0:(34.77844,583.6175)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(418.0,795.0)
+:Sending Touch (ACTION_UP): 0:(291.5771,887.023)
+:Sending Touch (ACTION_DOWN): 0:(30.0,653.0)
+:Sending Touch (ACTION_UP): 0:(29.897753,651.88947)
+    //[calendar_time:2014-07-15 15:08:59.370  system_uptime:85108488]
+    // Sending event #9200
+    //[calendar_time:2014-07-15 15:08:59.571  system_uptime:85108689]
+    // Sending event #9200
+:Sending Touch (ACTION_DOWN): 0:(507.0,851.0)
+:Sending Touch (ACTION_UP): 0:(506.94028,841.4358)
+:Sending Touch (ACTION_DOWN): 0:(682.0,664.0)
+:Sending Touch (ACTION_UP): 0:(699.6399,666.01495)
+:Sending Touch (ACTION_DOWN): 0:(418.0,741.0)
+:Sending Touch (ACTION_UP): 0:(352.55914,765.6411)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1230.0)
+:Sending Touch (ACTION_UP): 0:(240.59444,1237.5642)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(202.0,398.0)
+:Sending Touch (ACTION_UP): 0:(203.71562,396.9342)
+:Sending Touch (ACTION_DOWN): 0:(548.0,398.0)
+:Sending Touch (ACTION_UP): 0:(584.8428,350.76718)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(499.0,798.0)
+:Sending Touch (ACTION_UP): 0:(490.02954,797.651)
+:Sending Touch (ACTION_DOWN): 0:(630.0,84.0)
+:Sending Touch (ACTION_UP): 0:(645.7262,89.24633)
+:Sending Touch (ACTION_DOWN): 0:(278.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(322.3364,1280.0)
+    //[calendar_time:2014-07-15 15:09:05.614  system_uptime:85114732]
+    // Sending event #9300
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(15.0,196.0)
+:Sending Touch (ACTION_UP): 0:(17.062977,197.31299)
+:Sending Touch (ACTION_DOWN): 0:(512.0,32.0)
+:Sending Touch (ACTION_UP): 0:(581.96814,0.0)
+:Sending Touch (ACTION_DOWN): 0:(636.0,322.0)
+:Sending Touch (ACTION_UP): 0:(626.9997,313.47284)
+:Sending Touch (ACTION_DOWN): 0:(426.0,670.0)
+:Sending Touch (ACTION_UP): 0:(404.15393,652.5012)
+:Sending Touch (ACTION_DOWN): 0:(18.0,637.0)
+:Sending Touch (ACTION_UP): 0:(0.0,614.16376)
+:Sending Touch (ACTION_DOWN): 0:(26.0,248.0)
+:Sending Touch (ACTION_UP): 0:(0.0,283.29407)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(160.0,841.0)
+:Sending Touch (ACTION_UP): 0:(154.45868,819.60846)
+:Sending Touch (ACTION_DOWN): 0:(37.0,769.0)
+:Sending Touch (ACTION_UP): 0:(31.576206,768.27716)
+:Sending Touch (ACTION_DOWN): 0:(139.0,316.0)
+:Sending Touch (ACTION_UP): 0:(146.90253,272.28412)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2014-07-15 15:09:10.500  system_uptime:85119618]
+    // Sending event #9400
+    //[calendar_time:2014-07-15 15:09:10.702  system_uptime:85119820]
+    // Sending event #9400
+:Sending Touch (ACTION_DOWN): 0:(442.0,103.0)
+:Sending Touch (ACTION_UP): 0:(445.6711,115.42636)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(406.0,20.0)
+:Sending Touch (ACTION_UP): 0:(407.15536,6.057953)
+:Sending Touch (ACTION_DOWN): 0:(646.0,202.0)
+:Sending Touch (ACTION_UP): 0:(645.8211,197.95107)
+:Sending Touch (ACTION_DOWN): 0:(337.0,938.0)
+:Sending Touch (ACTION_UP): 0:(340.50464,940.7359)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(51.0,44.0)
+:Sending Touch (ACTION_UP): 0:(115.875496,22.581537)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(81.0,266.0)
+:Sending Touch (ACTION_UP): 0:(59.702698,272.54132)
+:Sending Touch (ACTION_DOWN): 0:(454.0,111.0)
+:Sending Touch (ACTION_UP): 0:(564.12006,202.56177)
+:Sending Touch (ACTION_DOWN): 0:(301.0,498.0)
+:Sending Touch (ACTION_UP): 0:(300.7427,498.7436)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2014-07-15 15:09:14.682  system_uptime:85123799]
+    // Sending event #9500
+:Sending Touch (ACTION_DOWN): 0:(565.0,603.0)
+:Sending Touch (ACTION_UP): 0:(564.0497,592.44025)
+:Sending Touch (ACTION_DOWN): 0:(251.0,344.0)
+:Sending Touch (ACTION_UP): 0:(255.18631,344.17163)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(53.0,972.0)
+:Sending Touch (ACTION_UP): 0:(53.410606,972.9693)
+:Sending Touch (ACTION_DOWN): 0:(442.0,628.0)
+:Sending Touch (ACTION_UP): 0:(549.0483,739.412)
+:Sending Touch (ACTION_DOWN): 0:(361.0,510.0)
+:Sending Touch (ACTION_UP): 0:(384.20773,515.113)
+:Sending Touch (ACTION_DOWN): 0:(101.0,200.0)
+:Sending Touch (ACTION_UP): 0:(79.997665,220.52467)
+:Sending Touch (ACTION_DOWN): 0:(473.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(458.9949,1030.2195)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(448.0,581.0)
+:Sending Touch (ACTION_UP): 0:(446.27158,575.6338)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2014-07-15 15:09:20.245  system_uptime:85129363]
+    // Sending event #9600
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(180.0,674.0)
+:Sending Touch (ACTION_UP): 0:(169.41101,669.73846)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(149.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(130.35605,1070.8638)
+:Sending Touch (ACTION_DOWN): 0:(487.0,14.0)
+:Sending Touch (ACTION_UP): 0:(486.14883,28.315048)
+:Sending Touch (ACTION_DOWN): 0:(181.0,992.0)
+:Sending Touch (ACTION_UP): 0:(193.8388,992.305)
+:Sending Touch (ACTION_DOWN): 0:(193.0,514.0)
+:Sending Touch (ACTION_UP): 0:(191.43326,523.9258)
+:Sending Touch (ACTION_DOWN): 0:(209.0,163.0)
+:Sending Touch (ACTION_UP): 0:(202.75513,148.25157)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(504.0,27.0)
+:Sending Touch (ACTION_UP): 0:(539.3254,109.45743)
+:Sending Touch (ACTION_DOWN): 0:(681.0,648.0)
+    //[calendar_time:2014-07-15 15:09:25.716  system_uptime:85134834]
+    // Sending event #9700
+:Sending Touch (ACTION_UP): 0:(631.9473,587.3044)
+:Sending Touch (ACTION_DOWN): 0:(133.0,248.0)
+:Sending Touch (ACTION_UP): 0:(119.41403,252.20866)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(215.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(204.0014,1235.8943)
+    // Rejecting start of Intent { act=android.settings.INPUT_METHOD_SETTINGS cmp=com.android.settings/.Settings$InputMethodAndLanguageSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(153.0,67.0)
+:Sending Touch (ACTION_UP): 0:(152.21498,74.581985)
+:Sending Touch (ACTION_DOWN): 0:(136.0,298.0)
+:Sending Touch (ACTION_UP): 0:(137.3473,295.96176)
+:Sending Touch (ACTION_DOWN): 0:(373.0,484.0)
+:Sending Touch (ACTION_UP): 0:(361.99072,479.64642)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(112.0,1157.0)
+:Sending Touch (ACTION_UP): 0:(113.27484,1144.9639)
+:Sending Touch (ACTION_DOWN): 0:(90.0,412.0)
+:Sending Touch (ACTION_UP): 0:(88.32807,388.3429)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(542.0,193.0)
+:Sending Touch (ACTION_UP): 0:(541.5392,206.96744)
+    //[calendar_time:2014-07-15 15:09:32.439  system_uptime:85141557]
+    // Sending event #9800
+    //[calendar_time:2014-07-15 15:09:32.640  system_uptime:85141757]
+    // Sending event #9800
+:Sending Touch (ACTION_DOWN): 0:(238.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(241.89014,1268.0674)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(16.0,861.0)
+:Sending Touch (ACTION_UP): 0:(30.633516,820.9673)
+:Sending Touch (ACTION_DOWN): 0:(297.0,890.0)
+:Sending Touch (ACTION_UP): 0:(243.6379,867.5708)
+:Sending Touch (ACTION_DOWN): 0:(79.0,780.0)
+:Sending Touch (ACTION_UP): 0:(60.845196,790.83234)
+:Sending Touch (ACTION_DOWN): 0:(78.0,392.0)
+:Sending Touch (ACTION_UP): 0:(15.502815,466.92798)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Touch (ACTION_DOWN): 0:(433.0,921.0)
+:Sending Touch (ACTION_UP): 0:(433.07556,926.28644)
+:Sending Touch (ACTION_DOWN): 0:(307.0,708.0)
+:Sending Touch (ACTION_UP): 0:(311.05704,707.8918)
+:Sending Touch (ACTION_DOWN): 0:(323.0,499.0)
+:Sending Touch (ACTION_UP): 0:(314.49695,482.0127)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(557.0,1164.0)
+    //[calendar_time:2014-07-15 15:09:39.500  system_uptime:85148618]
+    // Sending event #9900
+:Sending Touch (ACTION_UP): 0:(651.37775,1243.1686)
+:Sending Touch (ACTION_DOWN): 0:(500.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(453.45758,1254.8961)
+:Sending Touch (ACTION_DOWN): 0:(667.0,303.0)
+:Sending Touch (ACTION_UP): 0:(662.5405,315.3709)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(230.13231,1257.0267)
+:Sending Touch (ACTION_DOWN): 0:(498.0,459.0)
+:Sending Touch (ACTION_UP): 0:(455.5806,479.89603)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(538.0,898.0)
+:Sending Touch (ACTION_UP): 0:(541.7103,895.02856)
+:Sending Touch (ACTION_DOWN): 0:(261.0,90.0)
+:Sending Touch (ACTION_UP): 0:(266.8794,89.285835)
+:Sending Touch (ACTION_DOWN): 0:(338.0,1109.0)
+:Sending Touch (ACTION_UP): 0:(334.84344,1104.1278)
+:Sending Touch (ACTION_DOWN): 0:(601.0,683.0)
+:Sending Touch (ACTION_UP): 0:(604.51587,662.3074)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.richinfo.thinkmail/.ui.setup.WelcomeMessage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.richinfo.thinkmail/.ui.setup.WelcomeMessage } in package com.richinfo.thinkmail
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(50.0,330.0)
+:Sending Touch (ACTION_UP): 0:(0.0,326.07037)
+:Sending Touch (ACTION_DOWN): 0:(570.0,929.0)
+:Sending Touch (ACTION_UP): 0:(571.9039,912.9192)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(342.0,550.0)
+Events injected: 10000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=2 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=541836ms (0ms mobile, 541836ms wifi, 0ms not connected)
+// Monkey finished
