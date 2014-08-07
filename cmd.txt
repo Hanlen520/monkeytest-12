@@ -1,0 +1,7 @@
+
+> adb shell monkey -p mail139.mpost --monitor-native-crashes --pct-touch 30 -s 1 -v -v -v --throttle 200 5000 
+
+> adb shell monkey -p mail139.mpost -v 500 --ignore-crashes
+
+> adb shell monkey -p mail139.mpost --monitor-native-crashes --pct-touch 30 -s 1 -v -v -v --throttle 200 1000 2>>e:/error.txt
+monkey -v -p mail139.mpost --pct-majornav 20 --monitor-native-crashes --ignore-security-exceptions --ignore-crashes --ignore-timeouts --kill-process-after-error -s 220  --throttle 300 1000 >>/sdcard/monkey.txt &logcat -v time  *:D>>/sdcard/logcat.txt
